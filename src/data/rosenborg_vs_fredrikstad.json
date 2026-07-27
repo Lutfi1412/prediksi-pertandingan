@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Rosenborg 2 - 0 Fredrikstad",
+      "akurasi": "20%",
+      "keterangan": "Rosenborg unggul performa (3M-1S-1K, xG 2.14 vs 1.32 di 5 laga terakhir) berhadapan dengan Fredrikstad yang sangat rapuh secara tandang (5 kekalahan dari 7 laga away musim ini, rata-rata hanya 0.86 gol/laga) dan kehilangan Öhlenschlæger, pencetak kontribusi gol terbanyak mereka musim ini. Fredrikstad juga belum mencetak gol dalam 2 laga terakhir mereka."
+    },
+    {
+      "prediksi": "Rosenborg 2 - 1 Fredrikstad",
+      "akurasi": "16%",
+      "keterangan": "Meski Rosenborg diunggulkan, mereka juga kehilangan Dino Islamovic dan baru menjalani laga berat (kalah 0-5 dari Manchester United 3 hari sebelumnya) yang berpotensi menyisakan kelelahan - membuka sedikit ruang bagi Fredrikstad untuk mencuri satu gol meski tetap kalah."
+    },
+    {
+      "prediksi": "Rosenborg 3 - 1 Fredrikstad",
+      "akurasi": "12%",
+      "keterangan": "Fredrikstad tercatat belum pernah clean sheet dalam 19 laga beruntun, indikasi lini belakang yang sangat rapuh sepanjang musim - jika Rosenborg tampil klinis di kandang sendiri, margin kemenangan lebih lebar sangat mungkin terjadi."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Skor babak 1: Rosenborg unggul 1-0",
+      "akurasi": "30%",
+      "keterangan": "Fredrikstad kebobolan 6 dari 8 gol terakhir mereka (75%) tepat di babak pertama, sementara Rosenborg sendiri mencetak 5 dari 10 gol terakhirnya sebelum turun minum - kombinasi pola ini menjadikan Rosenborg unggul di turun minum sebagai skenario paling konsisten dengan data."
+    },
+    {
+      "prediksi": "Fredrikstad tampil relatif lebih baik di babak kedua namun tetap tertinggal",
+      "akurasi": "36%",
+      "keterangan": "Fredrikstad mencetak 3 dari 4 gol terakhirnya di babak kedua dan hanya kebobolan 2 gol (dibanding 6 gol babak pertama) - pola ini menunjukkan mereka cenderung sedikit membaik secara organisasi setelah turun minum, meski umumnya sudah tertinggal terlebih dahulu."
+    },
+    {
+      "prediksi": "Total tembakan pertandingan berkisar 20-24",
+      "akurasi": "43%",
+      "keterangan": "Rata-rata gabungan tembakan kedua tim di 5 laga terakhir sekitar 22 (11.67 Rosenborg + 10.33 Fredrikstad), volume yang konsisten dengan laga papan tengah-bawah Eliteserien yang kompetitif namun tidak seterbuka laga-laga di liga lain."
+    },
+    {
+      "prediksi": "Tembakan tepat sasaran didominasi Rosenborg",
+      "akurasi": "60%",
+      "keterangan": "Rosenborg rata-rata melepaskan 6 tembakan tepat sasaran per laga berbanding Fredrikstad yang hanya 2, selisih yang sangat mencolok dan konsisten dengan efisiensi serang Rosenborg yang jauh lebih baik musim ini."
+    },
+    {
+      "prediksi": "Jumlah corner cenderung tinggi dari kedua sisi, bukan didominasi mutlak satu tim",
+      "akurasi": "34%",
+      "keterangan": "Menariknya, baik Rosenborg (3.67 corner didapat vs 6 corner lawan) maupun Fredrikstad (3.33 vs 5.33) sama-sama lebih sering kebobolan corner dibanding mendapat corner sendiri di sampel masing-masing - mengindikasikan permainan sayap yang aktif dari kedua sisi, bukan dominasi teritorial searah."
+    },
+    {
+      "prediksi": "Rosenborg mencatat jumlah pelanggaran lebih banyak meski diunggulkan menang",
+      "akurasi": "40%",
+      "keterangan": "Rosenborg rata-rata melakukan 15 pelanggaran per laga berbanding Fredrikstad yang 12, kemungkinan mencerminkan gaya pressing agresif dan duel tinggi yang mereka terapkan untuk merebut bola sejak lini depan di bawah pelatih baru mereka."
+    },
+    {
+      "prediksi": "Rosenborg lebih berpeluang besar mencetak gol pembuka laga",
+      "akurasi": "62%",
+      "keterangan": "Kombinasi rekor kandang Rosenborg, tren mencetak gol awal mereka sendiri, dan rekor Fredrikstad yang sangat sering kebobolan cepat membuat probabilitas Rosenborg unggul lebih dulu jauh di atas rata-rata laga yang setara."
+    },
+    {
+      "prediksi": "Emil Konradsen Ceïde tampil sebagai motor kreatif utama Rosenborg",
+      "akurasi": "40%",
+      "keterangan": "Ceïde tercatat sebagai pencipta peluang besar (big chances created) terbanyak untuk Rosenborg musim ini dengan 4 peluang besar, menjadikannya kandidat kuat sebagai penentu jalannya serangan Rosenborg di laga ini."
+    },
+    {
+      "prediksi": "Absennya Öhlenschlæger berdampak lebih besar bagi Fredrikstad dibanding absennya Islamovic bagi Rosenborg",
+      "akurasi": "55%",
+      "keterangan": "Öhlenschlæger adalah kontributor serangan terbaik Fredrikstad musim ini (2 gol, 2 assist) di tim yang sudah minim produksi gol, sedangkan Rosenborg kehilangan Islamovic namun masih memiliki opsi serangan lain dengan xG kolektif yang jauh lebih sehat (2.14 per laga) - kedalaman skuad Rosenborg meredam dampak absen dibanding Fredrikstad yang kehilangan sumber gol utamanya."
+    },
+    {
+      "prediksi": "Fredrikstad berpotensi gagal mencetak gol (BTTS: Tidak lebih mungkin daripada Ya)",
+      "akurasi": "46%",
+      "keterangan": "Fredrikstad belum mencetak gol dalam 2 laga terakhir dan rata-rata hanya membukukan 0.8 gol per laga di sampel, ditambah kehilangan pencetak/asisten gol utama mereka - kombinasi faktor ini membuat skenario mereka gagal mencetak gol sama sekali cukup realistis meski tidak dominan."
+    },
+    {
+      "prediksi": "Rosenborg punya peluang solid mencatat clean sheet",
+      "akurasi": "38%",
+      "keterangan": "Dengan Fredrikstad belum mencetak gol di 2 laga terakhir dan tampil buruk secara ofensif di laga tandang (rata-rata shot on target hanya 2 per laga), Rosenborg realistis mengunci gawang mereka meski bukan skenario dengan probabilitas mayoritas mutlak."
+    },
+    {
+      "prediksi": "Rosenborg mengontrol tempo permainan namun tidak dominan ekstrem di penguasaan bola",
+      "akurasi": "48%",
+      "keterangan": "Selisih penguasaan bola kedua tim relatif tipis (55% Rosenborg vs 52.33% Fredrikstad), menandakan Rosenborg lebih unggul lewat efisiensi dan kualitas peluang (xG, SOT) dibanding dominasi teritorial penuh - laga kemungkinan tetap punya periode di mana Fredrikstad memegang bola cukup lama tanpa banyak mengancam."
+    },
+    {
+      "prediksi": "Periode paling rawan gol: 30 menit pertama babak 1",
+      "akurasi": "37%",
+      "keterangan": "Fredrikstad kebobolan mayoritas gol mereka di babak pertama sepanjang 5 laga terakhir, sementara Rosenborg juga punya rekor mencetak gol awal yang solid - menjadikan awal laga sebagai jendela dengan risiko gol tertinggi, bukan jendela akhir laga seperti pada beberapa laga lain."
+    },
+    {
+      "prediksi": "Faktor kelelahan pasca laga persahabatan kontra Manchester United berisiko terasa di Rosenborg pada 20-30 menit akhir laga",
+      "akurasi": "33%",
+      "keterangan": "Rosenborg sempat mengimbangi Manchester United selama sekitar satu jam sebelum kolaps di babak kedua laga persahabatan 3 hari sebelum laga ini - pola ini mengindikasikan potensi penurunan intensitas fisik di fase akhir laga jika pemain inti yang sama kembali diturunkan penuh menit tanpa banyak rotasi."
+    },
+    {
+      "prediksi": "Fredrikstad diprediksi tetap kesulitan meraih kemenangan di Lerkendal sesuai tren H2H terkini",
+      "akurasi": "58%",
+      "keterangan": "Fredrikstad tidak pernah menang dalam 4 pertemuan terakhir melawan Rosenborg (2 kalah, 2 seri) dan kemenangan terakhir mereka atas Rosenborg tercatat sejak November 2012 - beban psikologis dan rekor H2H yang timpang ini menambah keunggulan kualitatif Rosenborg di laga kandang mereka."
+    }
+  ]
+}

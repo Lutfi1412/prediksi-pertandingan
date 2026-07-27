@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Indonesia 2 - 1 Cambodia",
+      "akurasi": "18%",
+      "keterangan": "Indonesia diunggulkan lewat gap kualitas skuad dan catatan menang 2 laga terakhir head-to-head, namun skuad yang diturunkan Herdman untuk turnamen non-FIFA calendar ini didominasi pemain Liga 1 domestik tanpa sejumlah pilar berbasis Eropa yang biasa memperkuat rata-rata performa timnas. Cambodia juga terbukti tetap kompetitif dan mampu mencetak gol meski kalah dari Singapura (1-2) di laga pembuka, sehingga skor ketat dengan Indonesia tetap mencetak gol lebih banyak adalah hasil paling masuk akal."
+    },
+    {
+      "prediksi": "Indonesia 1 - 0 Cambodia",
+      "akurasi": "15%",
+      "keterangan": "Herdman sendiri menyebut timnya masih membangun identitas permainan dan mengakui Cambodia adalah lawan yang terorganisir serta disiplin - kombinasi laga pembuka turnamen bagi Indonesia (setelah bye di laga 1) dan pendekatan bertahan rapat Cambodia berpotensi menghasilkan laga rendah gol dengan Indonesia menang tipis satu gol."
+    },
+    {
+      "prediksi": "Indonesia 1 - 1 Cambodia",
+      "akurasi": "13%",
+      "keterangan": "Skenario ini merefleksikan risiko nyata dari rotasi skuad besar-besaran Indonesia (mayoritas pemain domestik, minus sejumlah bintang berbasis Eropa) berhadapan dengan Cambodia yang sudah punya ritme kompetitif dari laga sebelumnya melawan Singapura serta terbukti mampu bertahan hingga menit-menit akhir sebelum baru kebobolan gol penentu."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Skor babak 1 diprediksi rapat: 1-0 untuk Indonesia",
+      "akurasi": "22%",
+      "keterangan": "Data 5 laga timnas Indonesia sebelumnya menunjukkan kecenderungan mencetak gol sangat awal (3 gol di rentang menit 0-15), namun mengingat komposisi skuad yang berbeda signifikan untuk turnamen ini, laga pembuka yang hati-hati dengan keunggulan tipis di turun minum lebih realistis dibanding start eksplosif seperti pada sampel data penuh."
+    },
+    {
+      "prediksi": "Babak kedua berpotensi lebih rawan terjadi gol dibanding babak pertama",
+      "akurasi": "40%",
+      "keterangan": "Dengan kedua tim kemungkinan bermain hati-hati di awal laga (Indonesia masih meraba kombinasi pemain baru, Cambodia memilih bertahan terorganisir), ruang untuk gol biasanya baru terbuka setelah penyesuaian taktik di babak kedua, sejalan dengan pola umum laga pembuka turnamen dengan skuad yang belum banyak bermain bersama."
+    },
+    {
+      "prediksi": "Total tembakan pertandingan tergolong moderat, sekitar 16-20",
+      "akurasi": "42%",
+      "keterangan": "Cambodia hanya melepaskan dan menghadapi rata-rata 9-15 tembakan di sampel laga tersedia sementara laga timnas Indonesia yang lebih kompetitif (kontra Irak dan Arab Saudi) mencatat volume tembakan tidak terlalu tinggi (9-10 per laga) - mengindikasikan laga ini kemungkinan bukan laga barrage tembakan seperti pertandingan klub Eropa."
+    },
+    {
+      "prediksi": "Tembakan tepat sasaran diprediksi didominasi Indonesia",
+      "akurasi": "55%",
+      "keterangan": "Meski personel berubah, kedalaman teknis dan kualitas individu pemain Liga 1 pilihan Herdman (termasuk Marc Klok, Thom Haye, Marselino Ferdinan) secara umum masih di atas level rata-rata Cambodia, yang pada laga kontra Singapura hanya menghasilkan xG serendah 0.38 dari 9 tembakan."
+    },
+    {
+      "prediksi": "Jumlah corner relatif seimbang, Cambodia tidak tertinggal jauh",
+      "akurasi": "38%",
+      "keterangan": "Data Cambodia justru menunjukkan rata-rata 5 corner per laga (setara dengan jumlah corner lawan yang mereka hadapi), sementara sampel timnas penuh Indonesia mencatat rata-rata corner yang tidak jauh berbeda (3.5) - mengindikasikan keunggulan teritorial Indonesia mungkin tidak setimpang gap FIFA ranking (118 vs 175) yang terlihat di atas kertas."
+    },
+    {
+      "prediksi": "Indonesia mencatat jumlah pelanggaran lebih banyak dibanding Cambodia",
+      "akurasi": "46%",
+      "keterangan": "Cambodia dikenal sebagai tim yang disiplin secara taktik (rata-rata hanya 8 pelanggaran per laga di sampel dan diakui langsung oleh Herdman sebagai 'tim yang sangat terorganisir'), sementara sampel laga Indonesia mencatat rata-rata pelanggaran jauh lebih tinggi (18 per laga, meski sebagian berasal dari laga fisik kontra Irak/Arab Saudi)."
+    },
+    {
+      "prediksi": "Indonesia lebih berpeluang mencetak gol pertama, namun tanpa keunggulan telak",
+      "akurasi": "50%",
+      "keterangan": "Insight historis menunjukkan Indonesia menang 2 pertemuan H2H terakhir melawan Cambodia, namun dengan skuad yang lebih banyak berisi pemain domestik untuk turnamen ini, keunggulan membuka skor lebih dulu tetap ada namun probabilitasnya tidak seyakin biasanya."
+    },
+    {
+      "prediksi": "Kontributor gol Indonesia (jika ada) kemungkinan besar berasal dari pemain Liga 1/naturalisasi di skuad resmi AFF (mis. Marc Klok, Thom Haye, Jordi Amat, Marselino Ferdinan), bukan nama-nama yang mendominasi statistik 5 laga timnas sebelumnya",
+      "akurasi": "68%",
+      "keterangan": "Data 5 laga terakhir timnas menonjolkan nama-nama berbasis Eropa (Kevin Diks, Jay Idzes, Calvin Verdonk, Maarten Paes) yang secara eksplisit tidak masuk skuad 26 pemain untuk turnamen non-FIFA calendar ini - sehingga pola performa individu dari data historis tidak bisa diproyeksikan langsung ke starting XI aktual yang lebih didominasi pemain Liga 1 dan pemain naturalisasi seperti Jordi Amat, Thom Haye, dan Sandy Walsh."
+    },
+    {
+      "prediksi": "Penguasaan bola Indonesia diperkirakan tinggi, 55-65%",
+      "akurasi": "58%",
+      "keterangan": "Cambodia kemungkinan besar memilih bertahan dalam dan mengandalkan transisi cepat sesuai gaya disiplin mereka, sehingga meski gap kualitas individu menyempit akibat rotasi Indonesia, keunggulan penguasaan bola tetap realistis dimiliki tuan rumah karena lawan cenderung merelakan bola."
+    },
+    {
+      "prediksi": "Cambodia punya peluang realistis mencetak minimal satu gol",
+      "akurasi": "48%",
+      "keterangan": "Cambodia mencetak gol di 2 dari 3 sampel laga valid terakhir mereka termasuk saat kalah dari Singapura, serta menunjukkan ketahanan bertahan hingga menit-menit akhir sebelum baru kebobolan gol penentu - menandakan mereka bukan tim yang mudah dibungkam sepanjang 90 menit."
+    },
+    {
+      "prediksi": "Indonesia berpeluang TIDAK mencatat clean sheet",
+      "akurasi": "47%",
+      "keterangan": "Dikombinasikan dengan rotasi lini belakang Indonesia yang kemungkinan besar berbeda dari kombinasi biasa serta kemampuan Cambodia mencetak gol di sebagian besar laga terakhir mereka, skenario Cambodia berhasil menjebol gawang Indonesia sama realistisnya dengan skenario clean sheet penuh."
+    },
+    {
+      "prediksi": "Ancaman utama Cambodia datang lewat serangan balik dan transisi cepat, bukan build-up panjang",
+      "akurasi": "52%",
+      "keterangan": "Analisis dari laga Cambodia kontra Singapura menunjukkan mereka lebih memilih menumpuk pemain di area pertahanan sendiri dan menunggu momentum serangan balik, konsisten dengan reputasi mereka sebagai tim yang disiplin namun terbatas secara build-up permainan."
+    },
+    {
+      "prediksi": "Bola mati/corner berpotensi jadi sumber peluang alternatif bagi Cambodia",
+      "akurasi": "35%",
+      "keterangan": "Dengan rata-rata 5 corner per laga meski berstatus underdog, Cambodia menunjukkan kecenderungan mendapat cukup banyak peluang set piece, yang secara taktis sering menjadi senjata realistis bagi tim dengan keterbatasan build-up open play melawan lawan lebih superior."
+    },
+    {
+      "prediksi": "Tempo laga cenderung hati-hati di 20-30 menit awal sebelum berangsur lebih terbuka",
+      "akurasi": "44%",
+      "keterangan": "Baik Herdman yang masih meracik kombinasi pemain baru maupun Cambodia yang bermain terorganisir di laga kedua turnamen mengindikasikan fase saling meraba di awal laga, sebelum kelelahan fisik dan kebutuhan mengejar hasil membuka ruang lebih besar menjelang dan setelah turun minum."
+    },
+    {
+      "prediksi": "Peluang Cambodia mencuri hasil imbang/upset lebih tinggi dari yang tersirat gap FIFA ranking (118 vs 175)",
+      "akurasi": "30%",
+      "keterangan": "Kombinasi rotasi besar-besaran skuad Indonesia (minus pemain-pemain Eropa reguler), keunggulan ritme kompetisi Cambodia yang sudah bermain satu laga lebih dulu, dan bukti nyata Cambodia mampu menyulitkan Singapura hingga injury time membuat peluang hasil mengejutkan di laga ini lebih besar dibanding yang terlihat dari selisih peringkat FIFA semata."
+    }
+  ]
+}
