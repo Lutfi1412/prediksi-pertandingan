@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Landskrona BoIS 2-1 IFK Norrkoping",
+      "akurasi": "29%",
+      "keterangan": "Kedua tim rata-rata cetak 1.8 gol/laga di 5 laga terakhir dan sama-sama dalam performa terbaik musim ini (4M-1K). Keunggulan kandang plus rekor H2H sedikit lebih baik (2M-1K-1S) membuat Landskrona sedikit diunggulkan tipis."
+    },
+    {
+      "prediksi": "Imbang 1-1",
+      "akurasi": "24%",
+      "keterangan": "Norrkoping (peringkat 3) dan Landskrona (peringkat 4-5) hanya terpaut sekitar 4 poin dan sama-sama disebut kandidat tim terbaik musim ini oleh pengamat lokal. Laga sepadan berpotensi besar berakhir imbang."
+    },
+    {
+      "prediksi": "IFK Norrkoping 2-1 Landskrona BoIS",
+      "akurasi": "20%",
+      "keterangan": "Norrkoping punya pertahanan terbaik liga (hanya 9 kebobolan) dan rekor tandang sempurna pada 2 laga away terakhir mereka. Motif balas dendam usai kalah 1-3 di kandang sendiri pada April turut menambah motivasi ekstra."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Babak pertama berpotensi terjadi gol, dengan Norrkoping punya kecenderungan mencetak lebih dulu",
+      "akurasi": "55%",
+      "keterangan": "Dari 9 gol Norrkoping dalam 5 laga terakhir, 6 di antaranya tercipta di babak pertama - rasio yang jauh lebih tinggi dibanding babak kedua mereka sendiri (hanya 3 gol)."
+    },
+    {
+      "prediksi": "Babak kedua Norrkoping justru melambat, Landskrona berpeluang menyamai tempo",
+      "akurasi": "50%",
+      "keterangan": "Produksi gol Norrkoping menurun di babak kedua (3 gol vs 6 di babak 1 dalam 5 laga terakhir), sementara distribusi gol Landskrona lebih merata (4 vs 4), membuka peluang comeback/penyeimbang di paruh kedua."
+    },
+    {
+      "prediksi": "IFK Norrkoping unggul jumlah tembakan meski bertandang",
+      "akurasi": "54%",
+      "keterangan": "Rata-rata tembakan Norrkoping (12.8 per laga) lebih tinggi dari Landskrona (10.6), didukung penguasaan bola mereka yang jauh lebih dominan secara statistik musiman."
+    },
+    {
+      "prediksi": "Landskrona lebih efisien dengan rasio shots on target lebih tinggi",
+      "akurasi": "52%",
+      "keterangan": "Landskrona mencatat rata-rata 5.4 SOT dari 10.6 tembakan (rasio ~51%), jauh lebih klinis dibanding Norrkoping yang hanya mengonversi 4.4 SOT dari 12.8 tembakan."
+    },
+    {
+      "prediksi": "Landskrona berpotensi kebanyakan kebobolan corner dibanding memenangkannya",
+      "akurasi": "51%",
+      "keterangan": "Rata-rata Landskrona hanya menang 3.2 corner namun kebobolan 5.4 corner per laga - indikasi mereka kerap tertekan di area sendiri meski hasil akhir positif."
+    },
+    {
+      "prediksi": "Potensi kartu kuning menyasar Landskrona, terutama pemain André Alvarez Perez",
+      "akurasi": "48%",
+      "keterangan": "Alvarez Perez tercatat sebagai pemain dengan kartu kuning terbanyak di Superettan musim ini (6 kartu), menjadikannya risiko pelanggaran/kartu tersendiri dalam duel papan atas yang emosional ini."
+    },
+    {
+      "prediksi": "Edi Sylisufaj (Landskrona) paling berpeluang cetak gol pertama",
+      "akurasi": "26%",
+      "keterangan": "Sylisufaj mencetak 4 dari 9 gol Landskrona dalam 5 laga terakhir - jauh di atas rekan setimnya - dan bermain di kandang sendiri malam ini."
+    },
+    {
+      "prediksi": "IFK Norrkoping unggul penguasaan bola",
+      "akurasi": "58%",
+      "keterangan": "Rata-rata possession Norrkoping musim ini mencapai 59.8%, jauh di atas Landskrona (47.2%), mencerminkan gaya main build-up mereka yang lebih dominan bola."
+    },
+    {
+      "prediksi": "Norrkoping lebih agresif/berbahaya di menit-menit awal laga",
+      "akurasi": "53%",
+      "keterangan": "Pola gol mereka yang terkonsentrasi di babak pertama (6 dari 9 gol) mengindikasikan start cepat, konsisten dengan gaya menyerang sejak kickoff yang jadi identitas mereka musim ini."
+    },
+    {
+      "prediksi": "Landskrona berpeluang lebih kuat close-out laga berkat dukungan kandang",
+      "akurasi": "47%",
+      "keterangan": "Dengan produktivitas gol Norrkoping yang menurun di babak kedua dan Landskrona tampil solid di kandang (menang 2 laga kandang terakhir), tuan rumah punya modal untuk tampil lebih baik saat laga memanas di penghujung."
+    },
+    {
+      "prediksi": "BTTS (kedua tim cetak gol) berpotensi terjadi",
+      "akurasi": "57%",
+      "keterangan": "Kedua tim sama-sama mencetak 9 gol dalam 5 laga terakhir dan pertemuan H2H terakhir (April 2026) juga menghasilkan gol dari kedua sisi. Kualitas serangan keduanya sedang di puncak musim ini."
+    },
+    {
+      "prediksi": "Tempo pertandingan tinggi/terbuka mengingat status keduanya di papan atas",
+      "akurasi": "56%",
+      "keterangan": "Ini laga enam poin langsung antara peringkat 3 dan 4-5 klasemen promosi Superettan - kedua pelatih tak punya alasan bermain aman, apalagi kedua tim sedang percaya diri dengan rekor 4 menang dari 5 laga terakhir."
+    },
+    {
+      "prediksi": "30 menit awal jadi periode paling rawan gol, terutama untuk gol Norrkoping",
+      "akurasi": "50%",
+      "keterangan": "Dua pertiga gol Norrkoping (6 dari 9) di 5 laga terakhir tercipta pada babak pertama, menandakan mereka punya kecenderungan kuat mencuri gol cepat sebelum lawan settle di laga penting seperti ini."
+    },
+    {
+      "prediksi": "Duel top scorer: Edi Sylisufaj vs Tim Nyman jadi penentu hasil",
+      "akurasi": "38%",
+      "keterangan": "Sylisufaj (4 gol) dan Nyman (3 gol) adalah mesin gol utama masing-masing tim dalam 5 laga terakhir, menjadikan keduanya kandidat kuat pencetak gol penentu di laga papan atas ini."
+    },
+    {
+      "prediksi": "Norrkoping datang dengan motif balas dendam usai kalah 1-3 di pertemuan sebelumnya",
+      "akurasi": "54%",
+      "keterangan": "Kekalahan kandang 1-3 dari Landskrona pada April 2026 disebut media lokal sebagai penampilan terburuk Norrkoping musim semi ini berdasarkan rating rata-rata tim - faktor motivasi ekstra yang realistis mendongkrak intensitas mereka malam ini."
+    }
+  ]
+}

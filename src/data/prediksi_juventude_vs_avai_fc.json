@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Juventude 2-0 Avai",
+      "akurasi": "30%",
+      "keterangan": "Juventude adalah pertahanan terbaik Serie B 2026 (12 kebobolan/19 laga) dan tak terkalahkan plus clean sheet di 3 laga kandang terakhir. Kembalinya Messias & Rai dari skorsing menambah kualitas serangan sekaligus soliditas tim."
+    },
+    {
+      "prediksi": "Juventude 1-0 Avai",
+      "akurasi": "24%",
+      "keterangan": "Avai belum menang tandang dalam 5 laga terakhir (0M-1S-2K away) dan performa positif mereka sejauh ini banyak ditopang faktor kandang. Skor tipis mencerminkan rekor pertahanan solid Juventude berhadapan dengan tim yang masih berjuang lepas dari Z-4."
+    },
+    {
+      "prediksi": "Imbang 1-1",
+      "akurasi": "19%",
+      "keterangan": "Avai menang di pertemuan terakhir kedua tim (Maret 2026, 2-0) dan datang dengan modal tak terkalahkan 3 laga di bawah pelatih baru Allan Aal serta motivasi ekstra bertahan di Serie B."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Juventude berpeluang unggul lebih dulu di babak pertama",
+      "akurasi": "54%",
+      "keterangan": "Juventude mencetak 4 dari 7 gol mereka di babak pertama pada 5 laga terakhir, sementara Avai justru kebobolan 3 gol babak pertama dari total 6 gol yang mereka terima - kombinasi yang menguntungkan tuan rumah."
+    },
+    {
+      "prediksi": "Babak kedua berjalan lebih waspada namun Avai historisnya bahaya di menit akhir",
+      "akurasi": "48%",
+      "keterangan": "Menariknya Avai mencetak 4 dari 6 gol mereka di babak kedua, dengan tren gol larut (87', 88', 90+9') - potensi ancaman balasan meski tertinggal di paruh pertama."
+    },
+    {
+      "prediksi": "Juventude unggul jumlah tembakan sebagai tuan rumah",
+      "akurasi": "58%",
+      "keterangan": "Rata-rata tembakan Juventude 12.6 vs 12.4 yang mereka terima (relatif seimbang secara musiman), namun lawan mereka kali ini, Avai, rata-rata dihujani 14.4 tembakan lawan per laga - jauh lebih rentan dibanding rata-rata lawan Juventude."
+    },
+    {
+      "prediksi": "Shots on target Juventude lebih tajam (4+) dibanding Avai (di bawah 3)",
+      "akurasi": "55%",
+      "keterangan": "Rata-rata SOT Juventude 4.2 per laga berbanding SOT Avai yang hanya 2.8 - selisih ketajaman yang signifikan, apalagi tanpa Ricardo Silva dan Emerson yang masih dalam pemulihan cedera di lini serang/tengah Avai."
+    },
+    {
+      "prediksi": "Juventude unggul jumlah corner mengingat Avai kerap kebobolan corner",
+      "akurasi": "57%",
+      "keterangan": "Avai rata-rata hanya memenangkan 3.2 corner namun kebobolan 6.2 corner per laga - pola tertekan yang konsisten, terutama saat bertandang ke tim dengan serangan sayap solid seperti Juventude."
+    },
+    {
+      "prediksi": "Total foul tinggi (30+), Juventude cenderung banyak melakukan foul taktis",
+      "akurasi": "56%",
+      "keterangan": "Rata-rata foul Juventude mencapai 19.6 per laga - jauh di atas Avai (12.0) - mengindikasikan gaya bertahan disiplin namun fisik demi menjaga rekor pertahanan terbaik liga tetap terjaga."
+    },
+    {
+      "prediksi": "Rai (Juventude) berpeluang besar cetak gol pertama atau terlibat langsung",
+      "akurasi": "28%",
+      "keterangan": "Rai tampil dengan rating 8.8 di laga terakhir meski timnya kalah, dan kini kembali dari skorsing bersama Messias. Waspadai juga Daniel Penha (Avai) yang mencetak 3 gol dalam 5 laga terakhir dan tampil paling konsisten di timnya."
+    },
+    {
+      "prediksi": "Juventude diproyeksikan menguasai bola lebih dominan dari rata-rata musimannya",
+      "akurasi": "50%",
+      "keterangan": "Possession musiman kedua tim sebenarnya berimbang (47.2% vs 46.0%), tapi faktor kandang plus lawan yang berjuang di zona degradasi biasanya membuat tim tuan rumah tampil lebih dominan bola dari rata-ratanya."
+    },
+    {
+      "prediksi": "Juventude tampil lebih agresif sejak menit awal",
+      "akurasi": "52%",
+      "keterangan": "Dengan 4 dari 7 gol tercipta di babak pertama pada 5 laga terakhir, Juventude punya rekam jejak jelas sebagai tim yang langsung menekan sejak kickoff, didukung dukungan penuh publik Alfredo Jaconi."
+    },
+    {
+      "prediksi": "Peluang clean sheet Juventude realistis mengingat status pertahanan terbaik liga",
+      "akurasi": "47%",
+      "keterangan": "Juventude mencatat 4 clean sheet dari 5 laga terakhir dan kebobolan cuma sekali (4 gol vs Botafogo-SP, tim peringkat atas). Lawan Avai yang levelnya di bawah Botafogo-SP membuat clean sheet berpeluang terulang, meski waspadai gol larut khas Avai."
+    },
+    {
+      "prediksi": "Avai berpotensi kesulitan menjebol gawang Juventude (BTTS condong tidak terjadi)",
+      "akurasi": "49%",
+      "keterangan": "Juventude adalah pertahanan terbaik Serie B 2026 dengan hanya 12 kebobolan dalam 19 laga, sementara Avai sendiri gagal cetak gol di 1 dari 5 laga terakhir kontra lawan yang levelnya lebih baik dari rata-rata."
+    },
+    {
+      "prediksi": "Tempo pertandingan cenderung fisik dan terputus-putus",
+      "akurasi": "51%",
+      "keterangan": "Kombinasi rata-rata foul tinggi dari Juventude (19.6) dan status laga krusial bagi perjuangan degradasi Avai berpotensi menghasilkan laga dengan banyak benturan dan bola mati, bukan sepak bola terbuka mengalir."
+    },
+    {
+      "prediksi": "Menit-menit akhir (80+) berpotensi rawan gol, khususnya dari sisi Avai",
+      "akurasi": "45%",
+      "keterangan": "Tiga dari enam gol Avai di 5 laga terakhir tercipta setelah menit 85 (87', 88', 90+9'), mengindikasikan mental juang dan stamina akhir laga yang kuat meski secara keseluruhan performa mereka inferior."
+    },
+    {
+      "prediksi": "Rai / Messias (Juventude) jadi pemain paling menentukan hasil laga",
+      "akurasi": "40%",
+      "keterangan": "Kembalinya dua starter kunci ini dari skorsing kartu langsung meningkatkan opsi kreativitas dan ketajaman Juventude, mengingat keduanya masuk daftar rating rata-rata tertinggi tim dalam 5 laga terakhir."
+    },
+    {
+      "prediksi": "Avai membawa modal psikologis untuk mengejutkan Juventude meski secara statistik inferior",
+      "akurasi": "43%",
+      "keterangan": "Avai memenangi pertemuan terakhir kedua tim 2-0 (Maret 2026), tak terkalahkan dalam 3 laga sejak ditangani pelatih baru Allan Aal, dan bermain dengan motivasi ekstra sebagai tim yang baru saja keluar dari zona degradasi - kombinasi faktor yang membuka celah upset kecil."
+    }
+  ]
+}
