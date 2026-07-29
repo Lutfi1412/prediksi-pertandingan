@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "1-0 (Incheon United menang)",
+      "akurasi": "29%",
+      "keterangan": "Incheon unggul jauh secara xG dalam 5 laga terakhir (1,59 xG diciptakan vs 0,84 xG kebobolan) meski gol aktual mereka rendah (rata-rata 0,8/laga) — indikasi peluang banyak tapi finishing belum maksimal, plus Gimpo tak pernah cetak gol babak 1 dalam 5 laga terakhir."
+    },
+    {
+      "prediksi": "1-1",
+      "akurasi": "24%",
+      "keterangan": "Incheon secara konsisten underperform dari xG mereka sendiri musim ini, membuka peluang bagi Gimpo mencuri satu gol lewat serangan balik meski kualitas serangan Gimpo juga rendah (rata-rata 0,8 gol/laga)."
+    },
+    {
+      "prediksi": "0-0",
+      "akurasi": "20%",
+      "keterangan": "Kedua tim sama-sama tim rendah gol musim ini (gabungan rata-rata di bawah 1,6 gol/laga), dan Incheon berpotensi merotasi starter untuk menjaga tenaga di kompetisi liga, memperbesar peluang laga tanpa gol."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Skor babak 1: 0-0",
+      "akurasi": "58%",
+      "keterangan": "Gimpo FC tidak mencetak satu pun gol di babak 1 dalam 5 laga terakhirnya (0 dari 4 gol total), dan Incheon juga condong ke babak 2 (hanya 3 dari 4 golnya di babak 1)."
+    },
+    {
+      "prediksi": "Gol, jika terjadi, lebih mungkin tercipta di babak kedua",
+      "akurasi": "60%",
+      "keterangan": "100% gol Gimpo FC dalam 5 laga terakhir tercipta setelah menit 45, pola yang sangat konsisten untuk tim ini musim ini."
+    },
+    {
+      "prediksi": "Total tembakan pertandingan relatif tinggi meski gol sedikit, 28-34",
+      "akurasi": "44%",
+      "keterangan": "Rata-rata tembakan gabungan kedua tim tinggi (Incheon 15,4, Gimpo 17/laga) namun konversi ke gol rendah — pola 'banyak peluang, sedikit gol' pada kedua tim."
+    },
+    {
+      "prediksi": "Gimpo FC unggul jumlah sudut meski minim penguasaan bola",
+      "akurasi": "46%",
+      "keterangan": "Gimpo mencatat rata-rata 6,5 corner/laga, lebih tinggi dari Incheon (4/laga), menandakan mereka cukup sering menekan lewat sisi lapangan meski possession rendah."
+    },
+    {
+      "prediksi": "Incheon United diprediksi dominan penguasaan bola",
+      "akurasi": "58%",
+      "keterangan": "Rata-rata possession Incheon 56,6% dalam 5 laga terakhir, konsisten sebagai tim yang mengendalikan bola lebih banyak dibanding lawan."
+    },
+    {
+      "prediksi": "Peluang clean sheet lebih besar untuk Incheon United",
+      "akurasi": "50%",
+      "keterangan": "Incheon mencatat clean sheet 20% dalam 5 laga terakhir, sedangkan Gimpo FC 0% (selalu kebobolan) — keunggulan pertahanan condong ke tuan rumah."
+    },
+    {
+      "prediksi": "Kedua tim cetak gol (BTTS): Tidak",
+      "akurasi": "52%",
+      "keterangan": "Kombinasi rendahnya rata-rata gol kedua tim (masing-masing 0,8/laga) dan rekor clean sheet Incheon membuat skenario salah satu tim gagal cetak gol cukup mungkin."
+    },
+    {
+      "prediksi": "Tempo pertandingan cenderung lambat dan berhati-hati, terutama di babak 1",
+      "akurasi": "53%",
+      "keterangan": "Kedua tim historisnya tidak produktif di 45 menit awal (Gimpo 0 gol, Incheon minim). Pelatih Incheon, Yoon Jung-hwan, sendiri mengakui timnya sempat tampil '안일하게' (kurang fokus) di awal laga terakhir vs Bucheon (Incheon Ilbo, 27 Jul 2026), mendukung proyeksi start yang lambat."
+    },
+    {
+      "prediksi": "Periode paling rawan gol: menit 70-90",
+      "akurasi": "48%",
+      "keterangan": "Pola gol babak-2 dominan pada kedua tim serta kemungkinan pemain pengganti segar masuk di 20-30 menit terakhir mendukung proyeksi ini."
+    },
+    {
+      "prediksi": "Pemain paling berpeluang menentukan hasil: Morgan Ferrier (Incheon United)",
+      "akurasi": "36%",
+      "keterangan": "Ferrier mencetak gol di 2 dari 5 laga terakhir Incheon dan menjadi pemain rating tertinggi (8,1, MOTM) pada laga paling akhir mereka, tampil lebih konsisten dibanding rekan setimnya musim ini."
+    },
+    {
+      "prediksi": "Gimpo FC mengandalkan pertahanan kompak dan serangan balik efisien",
+      "akurasi": "50%",
+      "keterangan": "Dengan possession rendah namun jumlah tembakan yang tidak sedikit (17/laga), gaya main Gimpo konsisten dengan pendekatan bertahan-lalu-menyerang balik."
+    },
+    {
+      "prediksi": "Peluang Incheon United tampil dengan rotasi signifikan",
+      "akurasi": "57%",
+      "keterangan": "Incheon (peringkat 6 K-League 1) hanya berjeda 3 hari sejak laga berat lawan Bucheon (26 Jul) sebelum terbang ke Jeju 2 Agustus; Incheon Ilbo (27 Jul 2026) menyebut manajemen kelelahan pemain inti jadi strategi wajib jelang laga ini."
+    },
+    {
+      "prediksi": "Peluang gol dari situasi bola mati cukup relevan bagi Gimpo FC",
+      "akurasi": "40%",
+      "keterangan": "Dengan rata-rata sudut tertinggi di antara laga ini (6,5/laga) namun open play kurang produktif, skema set piece jadi salah satu sumber ancaman realistis Gimpo."
+    },
+    {
+      "prediksi": "Peluang upset: Gimpo FC mampu menahan imbang atau mengejutkan Incheon United",
+      "akurasi": "38%",
+      "keterangan": "Meski secara data serangan Gimpo lemah, gaya bertahan disiplin mereka plus rekor Incheon yang sering gagal mengonversi peluang membuka celah hasil positif bagi tim tamu."
+    },
+    {
+      "prediksi": "Stefan Mugoša (top scorer K-League 1 musim ini untuk Incheon) tidak tercatat mencetak gol dalam 5 laga terakhir",
+      "akurasi": "55%",
+      "keterangan": "Meski memimpin daftar pencetak gol K-League 1 musim ini, nama Mugoša absen dari daftar pencetak gol Incheon di 5 laga terakhir yang dianalisis, membuat ketajaman lini depan mereka saat ini lebih bertumpu pada Ferrier dan Fernandes."
+    }
+  ]
+}

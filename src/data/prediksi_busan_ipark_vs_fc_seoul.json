@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "1-1",
+      "akurasi": "33%",
+      "keterangan": "Duel dua pemuncak klasemen (Busan #1 K-League 2, Seoul #1 K-League 1) di mana Seoul dilaporkan media lokal akan merotasi skuad demi laga krusial vs Jeonbuk Hyundai 3 Agustus. Kedua tim juga sama-sama tim 'starter lambat': Busan cetak 7 dari 10 gol terakhirnya di babak 2, Seoul 6 dari 8 golnya di babak 2, mendukung skor imbang yang baru pecah di paruh kedua."
+    },
+    {
+      "prediksi": "1-2 (FC Seoul menang)",
+      "akurasi": "26%",
+      "keterangan": "Seung-Won Jung tampil dalam performa terbaik karier (rating 8.3-9.1 di 3 dari 5 laga terakhir, cetak gol di 3 laga), jadi ancaman individu yang bisa mencuri kemenangan meski Seoul turun dengan skuad tidak penuh."
+    },
+    {
+      "prediksi": "2-1 (Busan I'Park menang)",
+      "akurasi": "20%",
+      "keterangan": "Modal kandang, motivasi bangkit usai kalah 1-4 dari rival gelar Suwon Samsung Bluewings pekan lalu, serta ekspektasi rotasi besar di kubu Seoul membuka celah realistis bagi pemuncak K-League 2 mengejutkan tim tamu."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Skor babak 1: 0-0",
+      "akurasi": "45%",
+      "keterangan": "Busan hanya mencetak 3 dari 10 gol terakhirnya di babak 1, Seoul cuma 2 dari 8 golnya; kedua tim historisnya lambat memanas di awal laga."
+    },
+    {
+      "prediksi": "Babak kedua lebih hidup dengan minimal 2 gol total di 45 menit terakhir",
+      "akurasi": "56%",
+      "keterangan": "Pola gol kedua tim sangat condong ke babak 2 musim ini (Busan 70% golnya, Seoul 75% golnya tercipta setelah jeda)."
+    },
+    {
+      "prediksi": "Total tembakan kedua tim 22-28",
+      "akurasi": "50%",
+      "keterangan": "Rata-rata tembakan Busan 14/laga dan Seoul 13,8/laga dalam 5 laga terakhir menghasilkan proyeksi gabungan di rentang ini."
+    },
+    {
+      "prediksi": "FC Seoul lebih unggul akurasi tembakan tepat sasaran",
+      "akurasi": "47%",
+      "keterangan": "Seoul mencatat xG rapi 1,66 vs 1,20 (for vs against) di K-League 1, sedangkan data xG Busan di K-League 2 tidak tercatat (indikasi coverage lebih rendah), membuat kualitas peluang Seoul lebih terukur meski dengan skuad rotasi."
+    },
+    {
+      "prediksi": "Total sudut pertandingan 8-11",
+      "akurasi": "54%",
+      "keterangan": "Kombinasi rata-rata corner Busan (4,25/laga) dan Seoul (5,2/laga) dalam 5 laga terakhir masing-masing."
+    },
+    {
+      "prediksi": "Penguasaan bola diprediksi lebih banyak milik FC Seoul",
+      "akurasi": "58%",
+      "keterangan": "Seoul rata-rata unggul possession 57,6% di 5 laga K-League 1 terakhir, sementara gaya main Busan cenderung lebih merata/reaktif (rata-rata 47,5%)."
+    },
+    {
+      "prediksi": "Busan I'Park lebih tajam di 15 menit terakhir tiap babak",
+      "akurasi": "48%",
+      "keterangan": "Beberapa gol krusial Busan di laga-laga terakhir tercipta di menit 45+ dan 90+ (vs Gimpo FC, vs Jeonnam Dragons), menandakan tim yang kuat menutup laga."
+    },
+    {
+      "prediksi": "Clean sheet tipis peluangnya untuk kedua kubu",
+      "akurasi": "52%",
+      "keterangan": "Persentase clean sheet 5 laga terakhir kedua tim identik, 40%, sehingga peluang kedua tim sama-sama bobol cukup realistis."
+    },
+    {
+      "prediksi": "Kedua tim cetak gol (BTTS): Ya",
+      "akurasi": "53%",
+      "keterangan": "Didukung tren BTTS 60% Seoul dan pola serang-bertahan yang konsisten dari kedua sisi di 5 laga terakhir."
+    },
+    {
+      "prediksi": "Periode paling rawan gol: menit 61-90",
+      "akurasi": "55%",
+      "keterangan": "Distribusi waktu gol 5 laga terakhir kedua tim mayoritas terjadi di babak kedua, konsisten dengan data babak 1 vs babak 2 di atas."
+    },
+    {
+      "prediksi": "Pemain paling berpeluang menentukan hasil: Seung-Won Jung (jika diturunkan) atau Gabriel Honório/Jin-Hyuk Kim dari sisi Busan",
+      "akurasi": "40%",
+      "keterangan": "Jung cetak gol di 3 laga beruntun Seoul; Honório dan Kim sama-sama rating di atas 8,6 saat MOTM pada laga-laga terakhir Busan."
+    },
+    {
+      "prediksi": "Pola serang Busan mengandalkan variasi pencetak gol, bukan satu bintang tunggal",
+      "akurasi": "56%",
+      "keterangan": "Lima pemain berbeda mencetak gol untuk Busan dalam 5 laga terakhir, membuat ancaman mereka lebih sulit dipetakan lawan dibanding tim yang bergantung satu striker."
+    },
+    {
+      "prediksi": "Peluang serangan balik cepat dari Busan di kandang",
+      "akurasi": "45%",
+      "keterangan": "Menghadapi tim tamu yang diperkirakan menguasai bola lebih banyak, Busan berpotensi mengandalkan transisi cepat memanfaatkan ruang di lini belakang Seoul yang mungkin diisi pemain lapis kedua."
+    },
+    {
+      "prediksi": "Peluang upset: Busan I'Park (pemuncak K-League 2) realistis menahan atau mengalahkan Seoul",
+      "akurasi": "44%",
+      "keterangan": "Busan bukan tim kecil biasa — mereka pemuncak klasemen K-League 2 musim ini, sehingga gap kualitas dengan Seoul lebih tipis dari yang terlihat di atas kertas antar-divisi."
+    },
+    {
+      "prediksi": "FC Seoul berpotensi tidak tampil dengan kekuatan penuh karena rotasi",
+      "akurasi": "62%",
+      "keterangan": "Media Korea (TopStarNews, 27 Jul 2026) melaporkan Seoul cenderung menghindari penggunaan starter penuh di Piala Korea untuk menjaga kebugaran jelang duel gelar vs Jeonbuk Hyundai 3 Agustus."
+    }
+  ]
+}
