@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Indonesia menang 4-0",
+      "akurasi": "27%",
+      "keterangan": "Timor-Leste kalah 6 laga beruntun, gagal cetak gol di 2 laga fase grup ASEAN Championship ini (0-7 vs Vietnam, 0-2 vs Singapore) dengan xG gabungan hanya 1.13 dan cuma 1 tembakan tepat sasaran dari 2 laga. Indonesia baru mencatat xG 3.56 dan menang 5-1 atas Cambodia lewat hat-trick Mitchell Baker, meski margin sedikit ditahan kemungkinan rotasi menjelang laga krusial kontra Vietnam 3 hari kemudian."
+    },
+    {
+      "prediksi": "Indonesia menang 3-0",
+      "akurasi": "23%",
+      "keterangan": "Skor ini konsisten dengan H2H terakhir Indonesia-Timor Leste (menang 3-0 Januari 2022) dan mencerminkan skenario Indonesia tetap dominan namun tidak seagresif saat menghadapi Cambodia, sejalan dengan indikasi rotasi pemain inti oleh John Herdman untuk menjaga stamina jelang laga penentu melawan Vietnam."
+    },
+    {
+      "prediksi": "Indonesia menang 3-1",
+      "akurasi": "15%",
+      "keterangan": "Persis skor H2H 2018 (Indonesia 3-1 Timor-Leste) - meski peluang Timor-Leste mencetak gol sangat tipis (nihil tembakan tepat sasaran dalam 180 menit fase grup), mereka pernah mencetak gol hiburan melawan lawan lebih kuat seperti Maldives dan Philippines belakangan ini."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Indonesia unggul telak saat turun minum",
+      "akurasi": "50%",
+      "keterangan": "Pola serangan cepat sudah terlihat di grup ini - Indonesia unggul 3-0 hanya dalam 24 menit pertama melawan Cambodia, sementara Vietnam memimpin 3-0 di menit ke-43 saat menghadapi Timor-Leste - keduanya menunjukkan lawan-lawan kuat grup ini mampu membongkar pertahanan Timor-Leste sejak awal laga."
+    },
+    {
+      "prediksi": "Intensitas Indonesia sedikit menurun di babak kedua akibat manajemen stamina",
+      "akurasi": "38%",
+      "keterangan": "Mitchell Baker ditarik keluar di menit 58' usai mencetak hat-trick melawan Cambodia, mengindikasikan John Herdman cenderung mengelola tenaga pemain inti begitu keunggulan aman - relevan mengingat Indonesia akan menghadapi laga krusial kontra Vietnam hanya 3 hari setelah laga ini."
+    },
+    {
+      "prediksi": "Total tembakan Indonesia diperkirakan tinggi (18-25 shot)",
+      "akurasi": "48%",
+      "keterangan": "Indonesia melepaskan 26 tembakan saat menghadapi Cambodia (xG 3.56), dan Timor-Leste terbukti sangat rapuh menghadapi tekanan tim kuat ASEAN - hanya mampu membatasi Vietnam ke 23 tembakan dan Singapore ke 11 tembakan, keduanya jauh melebihi volume tembakan Timor-Leste sendiri di kedua laga (5 dan 7)."
+    },
+    {
+      "prediksi": "Indonesia sangat dominan dalam tembakan tepat sasaran",
+      "akurasi": "55%",
+      "keterangan": "Timor-Leste hanya mencatat total 1 tembakan tepat sasaran dari 2 laga fase grup (0 vs Vietnam, 1 vs Singapore), sementara Indonesia mencatat 13 tembakan tepat sasaran dalam satu laga saja kontra Cambodia - disparitas kualitas serangan yang sangat besar."
+    },
+    {
+      "prediksi": "Mitchell Baker menjadi ancaman gol utama/pencetak gol pertama Indonesia",
+      "akurasi": "26%",
+      "keterangan": "Baker mencetak hat-trick (menit 6', 15', 56') dengan rating 9.67 pada laga terakhir kontra Cambodia, menegaskan posisinya sebagai ujung tombak paling tajam Indonesia saat ini di turnamen ini."
+    },
+    {
+      "prediksi": "Clean sheet Indonesia sangat mungkin terjadi",
+      "akurasi": "54%",
+      "keterangan": "Timor-Leste gagal mencetak satu gol pun di kedua laga fase grup ASEAN Championship (0-7 vs Vietnam, 0-2 vs Singapore) dengan xG kombinasi hanya 1.13 dari 2 laga - indikasi kuat lini serang mereka nyaris tak berdaya menghadapi tim-tim kompetitif kawasan."
+    },
+    {
+      "prediksi": "Kedua tim tidak sama-sama mencetak gol (BTTS: Tidak)",
+      "akurasi": "50%",
+      "keterangan": "Timor-Leste blank di kedua laga grup sejauh ini dan tembakan tepat sasaran mereka sepanjang turnamen cuma 1 - skenario mereka gagal menjebol gawang Indonesia lebih mungkin terjadi dibanding mereka berhasil mencetak gol."
+    },
+    {
+      "prediksi": "Indonesia mendominasi penguasaan bola secara telak (di atas 65%)",
+      "akurasi": "52%",
+      "keterangan": "Indonesia mencatat 67% penguasaan bola melawan Cambodia yang levelnya sebanding dengan Timor-Leste di grup ini (Cambodia juga kalah 0-7 dari Vietnam dan 0-2 dari Singapore) - pola serupa besar kemungkinan terulang."
+    },
+    {
+      "prediksi": "Thom Haye diproyeksikan jadi kreator peluang utama Indonesia",
+      "akurasi": "30%",
+      "keterangan": "Haye mencatat 3 assist dengan rating 9.65 pada laga terakhir kontra Cambodia, menegaskan perannya sebagai pengatur serangan dari lini tengah yang paling produktif untuk Indonesia saat ini."
+    },
+    {
+      "prediksi": "Peluang penalti untuk Indonesia cukup terbuka",
+      "akurasi": "28%",
+      "keterangan": "Wasit turnamen ASEAN Championship ini cukup mudah menunjuk titik putih terhadap tim lemah yang bertahan dalam tekanan konstan - preseden Timor-Leste sendiri kebobolan penalti injury time kontra Maldives Maret lalu menunjukkan kerentanan mereka di kotak penalti sendiri."
+    },
+    {
+      "prediksi": "Mayoritas gol Indonesia berpotensi tercipta dari open play, bukan set piece",
+      "akurasi": "42%",
+      "keterangan": "Dari total xG 3.56 kontra Cambodia, sebanyak 3.21 (91%) berasal dari open play dan hanya 0.36 dari situasi bola mati - menunjukkan ancaman utama Indonesia datang dari build-up dan pressing tinggi, bukan sepak pojok atau tendangan bebas."
+    },
+    {
+      "prediksi": "Timor-Leste berpotensi tidak melepaskan satu pun tembakan tepat sasaran",
+      "akurasi": "35%",
+      "keterangan": "Timor-Leste tercatat 0 tembakan tepat sasaran sepanjang 90 menit kontra Vietnam dan hanya 1 kontra Singapore - readiness ofensif mereka sangat minim menghadapi lawan dengan kualitas tinggi seperti Indonesia."
+    },
+    {
+      "prediksi": "Indonesia unggul jauh dalam jumlah sepak pojok",
+      "akurasi": "40%",
+      "keterangan": "Meski Cambodia sempat unggul jumlah corner tipis (5-4) meski dihajar 1-5, dominasi teritorial Indonesia yang jauh lebih besar terhadap Timor-Leste (yang possession-nya bahkan lebih rapuh dari Cambodia) diproyeksikan tetap menghasilkan lebih banyak sepak pojok bagi Indonesia."
+    },
+    {
+      "prediksi": "Total gol pertandingan berpeluang melampaui 3.5 gol",
+      "akurasi": "44%",
+      "keterangan": "Rata-rata gabungan gol di laga-laga Timor-Leste kontra tim kompetitif ASEAN sejauh ini sangat tinggi (7 dan 2 gol di dua laga terakhir), dan Indonesia sendiri mencetak 5 gol dalam laga tunggal kontra Cambodia yang levelnya serupa."
+    },
+    {
+      "prediksi": "Skenario upset Timor-Leste sangat kecil kemungkinannya terjadi",
+      "akurasi": "5%",
+      "keterangan": "Berbeda dari laga-laga lain di mana faktor rotasi/motivasi bisa membuka celah upset, di laga ini seluruh indikator data (xG, shot, rating pemain, tren 6 kekalahan beruntun, H2H sempurna 2-0 untuk Indonesia) menunjuk satu arah - kejutan besar dari Timor-Leste nyaris tidak didukung data apa pun."
+    }
+  ]
+}

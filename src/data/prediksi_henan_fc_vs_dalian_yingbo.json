@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Henan FC menang 2-1",
+      "akurasi": "36%",
+      "keterangan": "Henan bermain di kandang dalam kondisi lebih segar (tanpa laga tengah pekan) dan kini fokus penuh ke liga usai tersingkir dari Piala FA lewat adu penalti 21 Juli lalu, sementara Dalian baru menjalani laga berat ketiga dalam 10 hari. Bruno Nazario sedang panas (terlibat gol di 4 dari 5 laga terakhir) dan Henan pernah menang telak 4-0 atas Dalian di kandang sendiri musim lalu meski kalah penguasaan bola."
+    },
+    {
+      "prediksi": "Dalian Yingbo menang 1-2",
+      "akurasi": "28%",
+      "keterangan": "Dalian menempati posisi 4 klasemen (jauh di atas Henan yang ke-9) dan sudah memenangi 2 pertemuan comfrontasi terakhir lawan Henan (adu penalti Piala FA dan liga 18 April 2026 2-1). Nicolae Stanciu tampil impresif mencetak gol di 4 dari 5 laga terakhir Dalian, dan tim ini konsisten unggul penguasaan bola serta volume tembakan di setiap pertemuan H2H beberapa musim terakhir."
+    },
+    {
+      "prediksi": "Imbang 2-2",
+      "akurasi": "17%",
+      "keterangan": "Kedua tim sama-sama tidak clean sheet dalam 5 laga terakhir masing-masing, dan pertemuan Piala FA 21 Juli lalu berakhir 1-1 di stadion yang sama sebelum Dalian menang lewat penalti - menunjukkan kualitas kedua tim di lapangan ini cukup berimbang secara langsung meski beda jauh di klasemen."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Peluang gol cepat sebelum menit ke-15 tergolong tinggi",
+      "akurasi": "47%",
+      "keterangan": "Dalam 4 pertemuan H2H terakhir, gol pembuka tercipta menit ke-9 sebanyak dua kali (leg Piala FA 21 Juli oleh Stanciu, dan laga Agustus 2025 lewat penalti Cardoso) - pola start cepat cukup konsisten terjadi di duel kedua tim ini."
+    },
+    {
+      "prediksi": "Gol telat/menit akhir (80'+) berpeluang muncul dan menentukan",
+      "akurasi": "42%",
+      "keterangan": "Saat away di Henan pada April 2026, Dalian Yingbo justru mencetak gol-gol penentu di menit 85' dan 90+2' setelah tertinggal - menunjukkan laga H2H ini punya kecenderungan drama di menit-menit akhir."
+    },
+    {
+      "prediksi": "Total tembakan gabungan tinggi, diperkirakan 26-32 shot",
+      "akurasi": "58%",
+      "keterangan": "Rata-rata 4 laga terakhir dengan data lengkap: Henan melepaskan sekitar 13 tembakan/laga (12,23,8,10) dan Dalian sekitar 18/laga (20,20,19,13) - kombinasi kedua tim konsisten menghasilkan volume tembakan tinggi setiap pertandingan."
+    },
+    {
+      "prediksi": "Dalian Yingbo unggul jumlah tembakan dan tembakan tepat sasaran",
+      "akurasi": "56%",
+      "keterangan": "Dalian mencatat rata-rata tembakan tepat sasaran lebih tinggi (7,11,10,3 vs Henan 3,10,4,6 di laga-laga terakhir) dan di 2 dari 3 laga H2H dengan data statistik, Dalian unggul telak jumlah tembakan total (20 vs 4 pada April 2026; 16 vs 9 pada Agustus 2025)."
+    },
+    {
+      "prediksi": "Dalian Yingbo lebih dominan penguasaan bola",
+      "akurasi": "60%",
+      "keterangan": "Di ketiga laga H2H dengan data statistik yang tersedia, Dalian Yingbo selalu unggul possession (58% April 2026, 55% Agustus 2025 - bahkan saat kalah 0-4, dan 52% April 2025) - pola ini sangat konsisten terlepas dari hasil akhir pertandingan."
+    },
+    {
+      "prediksi": "Henan FC lebih efisien mengonversi peluang meski kalah penguasaan bola",
+      "akurasi": "44%",
+      "keterangan": "Meski Dalian mendominasi possession dan volume tembakan di H2H, Henan justru unggul tembakan tepat sasaran di 2 dari 3 laga tercatat (5 vs 3 Agustus 2025, 4 vs 3 April 2025) - menunjukkan Henan lebih klinis/langsung dari peluang terbatas, khas tim yang bermain dengan transisi cepat."
+    },
+    {
+      "prediksi": "Dalian Yingbo diproyeksikan unggul jumlah sepak pojok",
+      "akurasi": "53%",
+      "keterangan": "Rata-rata corner Dalian di 4 laga terakhir (4,6,7,8) lebih tinggi dibanding Henan (6,6,1,2), sejalan dengan gaya permainan Dalian yang lebih menguasai bola dan menekan di sepertiga akhir lawan."
+    },
+    {
+      "prediksi": "Bruno Nazario sangat berpeluang terlibat gol (cetak gol atau assist)",
+      "akurasi": "48%",
+      "keterangan": "Nazario terlibat langsung dalam gol di 4 dari 5 laga terakhir Henan (gol vs Shandong, brace vs Qingdao termasuk penalti, gol vs Yunnan, gol vs Shanghai Port) dan tercatat sebagai pemilik rata-rata tembakan tepat sasaran tertinggi di skuad Henan FC musim ini."
+    },
+    {
+      "prediksi": "Nicolae Stanciu kandidat kuat pencetak gol pertama Dalian Yingbo",
+      "akurasi": "31%",
+      "keterangan": "Stanciu mencetak gol di 4 dari 5 laga terakhir Dalian Yingbo (termasuk gol menit 9' di leg Piala FA kontra Henan 21 Juli lalu), menjadikannya ancaman gol paling konsisten di skuad Dalian musim ini."
+    },
+    {
+      "prediksi": "Kedua tim sama-sama mencetak gol (BTTS: Ya)",
+      "akurasi": "60%",
+      "keterangan": "Henan tidak pernah clean sheet dalam 5 laga terakhir dan Dalian juga rutin kebobolan (kebobolan di leg Piala FA, laga vs Zhejiang, vs Shanghai Shenhua) - kombinasi dua pertahanan yang sama-sama rentan membuat BTTS jadi skenario dengan dasar statistik kuat."
+    },
+    {
+      "prediksi": "Clean sheet kecil kemungkinan terjadi dari kedua kubu",
+      "akurasi": "55%",
+      "keterangan": "Baik Henan maupun Dalian Yingbo konsisten kebobolan di hampir seluruh laga 5 pertandingan terakhir masing-masing, sehingga skenario salah satu tim tidak kebobolan sama sekali tergolong kurang mungkin dibanding tren umum kedua tim musim ini."
+    },
+    {
+      "prediksi": "Peluang terjadinya gol dari titik penalti cukup terbuka",
+      "akurasi": "38%",
+      "keterangan": "Setidaknya 4 penalti tercatat dalam rangkaian laga terakhir kedua tim yang dianalisis (Henan vs Qingdao, Henan vs Dalian Agustus 2025, Dalian vs Shanghai Shenhua, Dalian vs Wuhan Three Towns) - frekuensi penalti relatif tinggi di laga-laga yang melibatkan kedua tim ini."
+    },
+    {
+      "prediksi": "Dalian Yingbo berisiko tampil di bawah level akibat kelelahan jadwal padat",
+      "akurasi": "40%",
+      "keterangan": "Dalian baru menjalani 3 laga berat dalam 10 hari: babak 1/8 Piala FA lawan Henan hingga extra time dan adu penalti (21 Juli), tandang ke Zhejiang yang berakhir kalah 2-3 (26 Juli), dan kini kembali tandang ke Zhengzhou - beban fisik dan rotasi pemain berpotensi menggerus intensitas permainan Dalian, terutama di babak kedua."
+    },
+    {
+      "prediksi": "Henan FC diuntungkan motivasi tinggi karena kini fokus tunggal ke liga",
+      "akurasi": "50%",
+      "keterangan": "Setelah tersingkir dari Piala FA, media lokal mencatat Henan kini bisa mencurahkan seluruh energi untuk lolos dari zona degradasi Super League - berbeda dengan Dalian yang masih harus membagi fokus karena masih bertahan di perempat final Piala FA melawan Shanghai Shenhua."
+    },
+    {
+      "prediksi": "Jumlah kartu kuning gabungan tergolong sedang-tinggi (4-6 kartu)",
+      "akurasi": "46%",
+      "keterangan": "Rata-rata kartu kuning gabungan di laga H2H sebelumnya berkisar 4 kartu (Dalian 1 + Henan 3 di April 2026; Henan 1 + Dalian 3 di Agustus 2025), dengan total pelanggaran gabungan kerap di atas 25 - mengindikasikan laga fisik dengan disiplin kartu yang perlu diwaspadai kedua sisi."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Vietnam menang 2-1",
+      "akurasi": "31%",
+      "keterangan": "Vietnam tak terkalahkan dalam 18 laga beruntun dan meraih 14 kemenangan beruntun, ditambah tak pernah kalah dari Singapore dalam H2H tercatat (3M 1S 0K, termasuk menang agregat 5-1 di semifinal ASEAN Championship 2024). Namun Singapore juga belum terkalahkan di 2 laga grup ini dan sempat menahan imbang 0-0 Vietnam sebelumnya, sehingga skor ketat lebih realistis dibanding blow-out seperti kontra Timor-Leste."
+    },
+    {
+      "prediksi": "Vietnam menang 3-1",
+      "akurasi": "24%",
+      "keterangan": "Persis mengulang skor leg pertama semifinal ASEAN Championship 2024 (Vietnam 3-1 Singapore). Dengan Nguyen Dinh Bac dan Do Hoang Hen sedang dalam performa luar biasa (kombinasi 5 gol + 1 assist saat menghajar Timor-Leste 7-0), Vietnam punya kedalaman serangan untuk mencetak 3 gol meski Singapore tetap mampu membalas lewat pemain seperti Ilhan/Irfan Fandi."
+    },
+    {
+      "prediksi": "Imbang 1-1",
+      "akurasi": "13%",
+      "keterangan": "Singapore pernah menahan imbang 0-0 Vietnam di fase grup AFF Championship 2022 dan bermain dengan penguasaan bola tinggi (60%) bahkan saat kalah dari China - menunjukkan mereka punya kapasitas untuk bermain disiplin dan mengunci laga jika Vietnam gagal konversi peluang secepat biasanya."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Vietnam berpeluang unggul lebih dulu saat turun minum",
+      "akurasi": "52%",
+      "keterangan": "Saat menghajar Timor-Leste, Vietnam sudah unggul telak sebelum turun minum (gol menit 7', 31', 41', 43', 45+1') dan di leg pertama semifinal 2024 kontra Singapore, gol pembuka Vietnam juga tercipta menjelang akhir babak pertama (45+1' via penalti) - pola membongkar pertahanan lawan di paruh pertama cukup konsisten."
+    },
+    {
+      "prediksi": "Berpotensi terjadi drama gol di masa tambahan waktu yang sangat panjang",
+      "akurasi": "24%",
+      "keterangan": "Keunikan H2H kedua tim: saat away di leg kedua semifinal 2024, KEDUA gol kemenangan Vietnam tercipta di menit 90+11' dan 90+14' - menunjukkan laga Vietnam-Singapore historisnya berpotensi diperpanjang dengan waktu tambahan signifikan dan drama di penghujung laga."
+    },
+    {
+      "prediksi": "Vietnam diproyeksikan unggul jumlah tembakan total",
+      "akurasi": "55%",
+      "keterangan": "Vietnam melepaskan 23 tembakan (xG 4.43) saat menghajar Timor-Leste, jauh di atas volume tembakan Singapore di laga-laga terakhir mereka (11 vs Timor-Leste, 15 vs Cambodia, 8 vs China) - menunjukkan Vietnam secara konsisten menghasilkan lebih banyak peluang tembakan."
+    },
+    {
+      "prediksi": "Vietnam unggul jumlah tembakan tepat sasaran",
+      "akurasi": "50%",
+      "keterangan": "Vietnam mencatat 10 tembakan tepat sasaran dalam satu laga kontra Timor-Leste, sementara Singapore rata-rata hanya membukukan 2-5 tembakan tepat sasaran per laga di rangkaian pertandingan terakhir mereka."
+    },
+    {
+      "prediksi": "Vietnam lebih dominan penguasaan bola sebagai tuan rumah",
+      "akurasi": "48%",
+      "keterangan": "Vietnam mencatat 60% penguasaan bola saat menghajar Timor-Leste, dan sebagai tuan rumah di Stadion Nasional My Dinh dengan dukungan penuh publik sendiri, mereka diproyeksikan mengontrol tempo permainan sejak awal laga penentu puncak klasemen ini."
+    },
+    {
+      "prediksi": "Nguyen Dinh Bac sangat berpeluang terlibat gol (cetak gol/assist)",
+      "akurasi": "34%",
+      "keterangan": "Bac tampil luar biasa dengan hat-trick plus 1 assist (rating 9.77) saat melawan Timor-Leste - performa individu terbaik di skuad Vietnam sejauh ini di turnamen ini, menjadikannya ancaman gol utama yang wajib diwaspadai Singapore."
+    },
+    {
+      "prediksi": "Duo Ilhan/Irfan Fandi jadi ancaman gol utama Singapore",
+      "akurasi": "29%",
+      "keterangan": "Irfan Fandi mencetak gol krusial melawan Timor-Leste (41') dan Cambodia (90+11'), sementara Ilhan Fandi mencetak gol satu-satunya Singapore saat kalah dari China (76') - keluarga Fandi konsisten jadi sumber ancaman gol utama Singapore di rangkaian laga terakhir."
+    },
+    {
+      "prediksi": "Kedua tim berpeluang sama-sama mencetak gol (BTTS: Ya)",
+      "akurasi": "56%",
+      "keterangan": "Vietnam sudah mencetak gol di 12 laga beruntun dan Singapore mencetak gol di 11 laga beruntun terakhir mereka - kedua tim sama-sama konsisten menemukan gol, membuat skenario BTTS punya dasar statistik yang kuat meski Vietnam jauh lebih superior secara keseluruhan."
+    },
+    {
+      "prediksi": "Vietnam berpeluang menjaga clean sheet berkat pertahanan yang kokoh",
+      "akurasi": "35%",
+      "keterangan": "Vietnam tidak kebobolan di 4 dari 5 laga terakhir mereka (hanya kebobolan penalti dari Malaysia dan Laos di laga kompetitif), menunjukkan lini belakang yang cukup solid meski lini depan mereka yang lebih sering jadi sorotan."
+    },
+    {
+      "prediksi": "Tempo laga relatif tertahan di awal sebelum kualitas Vietnam mendominasi babak kedua",
+      "akurasi": "38%",
+      "keterangan": "Sebagai laga berlabel 'penentu puncak klasemen Grup A' antara dua tim sama-sama tak terkalahkan di turnamen ini, kedua sisi kemungkinan bermain lebih hati-hati di awal sebelum kedalaman skuad dan kualitas individu Vietnam mulai menekan pertahanan Singapore seiring laga berjalan."
+    },
+    {
+      "prediksi": "Peluang terjadinya gol dari titik penalti cukup terbuka",
+      "akurasi": "36%",
+      "keterangan": "Vietnam mencatat sedikitnya 4 gol dari titik penalti dalam rangkaian laga terakhir mereka (Bac vs Myanmar, Rafaelson vs Laos, serta 2 penalti Rafaelson/Linh di leg H2H Desember 2024 vs Singapore) - frekuensi penalti yang cukup tinggi melibatkan Vietnam belakangan ini."
+    },
+    {
+      "prediksi": "Vietnam diproyeksikan unggul jumlah sepak pojok",
+      "akurasi": "46%",
+      "keterangan": "Vietnam mencatat 6 corner saat dominan atas Timor-Leste, dan dengan status tuan rumah serta dominasi penguasaan bola yang diperkirakan berlanjut, mereka berpeluang menekan lebih banyak dan menghasilkan lebih banyak sepak pojok dibanding Singapore."
+    },
+    {
+      "prediksi": "Singapore berpotensi tampil lebih tangguh dari ekspektasi",
+      "akurasi": "30%",
+      "keterangan": "Singapore juga belum terkalahkan di 2 laga grup ini (menang atas Cambodia dan Timor-Leste) dan pernah menahan imbang Vietnam 0-0 di masa lalu - modal kepercayaan diri dan soliditas pertahanan mereka (hanya kalah 1 dari 5 laga terakhir) bisa membuat mereka lebih kompetitif dibanding perkiraan gap kekuatan on-paper."
+    },
+    {
+      "prediksi": "Intensitas permainan tinggi sepanjang laga karena berstatus laga penentu puncak klasemen",
+      "akurasi": "55%",
+      "keterangan": "Baik Vietnam maupun Singapore sama-sama meraih hasil sempurna di 2 laga awal Grup A, menjadikan pertemuan ini praktis sebagai laga penentu status juara grup - kedua tim diperkirakan tampil dengan skuad terkuat dan intensitas maksimal sejak menit awal."
+    },
+    {
+      "prediksi": "Total gol pertandingan berpeluang melampaui 2.5 gol",
+      "akurasi": "50%",
+      "keterangan": "Vietnam mencetak 14 gol dalam 3 laga terakhir mereka dan kedua tim sama-sama konsisten mencetak gol di rangkaian laga terakhir (Vietnam 12 laga beruntun, Singapore 11 laga beruntun) - kombinasi ini mendukung proyeksi total gol yang relatif tinggi."
+    }
+  ]
+}
