@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "pertandingan": "Juventude vs Atlético-MG",
+    "kompetisi": "Copa do Brasil 2026 – Oitavas de Final (Leg Kedua / 2nd Leg)",
+    "waktu": "Selasa, 4 Agustus 2026 – 22:30 UTC (19:30 Brasilia)",
+    "venue": "Estádio Alfredo Jaconi, Caxias do Sul, Rio Grande do Sul, Brasil",
+    "wasit": "Flávio Rodrigues de Souza",
+    "format_tie": "First leg: 0-0 di Arena MRV (1 Agustus 2026). Siapa yang menang di leg kedua langsung lolos ke perempat final. Jika seri (skor apapun), akan dilanjutkan adu penalti.",
+    "posisi_liga": {
+      "juventude": "Vice-pemimpin Série B (kompetisi bergulir paralel). Tidak terkalahkan di Alfredo Jaconi dalam Série B 2026.",
+      "atletico_mg": "Peringkat 10 Série A. Di bawah tekanan setelah fanbase protes pasca hasil 0-0 di leg pertama."
+    },
+    "kondisi_penting": {
+      "juventude": "KEMBALI: Rodrigo Sam (kiper/defender, absen karena suspensi di leg 1). ABSEN: Alanzinho (cedera LCA), Messias (cedera). DOUBTFUL: Mandaca (masalah otot, sempat main leg 1 tapi keluar lebih awal). Jagoan: Alisson Safira (hit crossbar di leg 1), Lucas Alves, Wesley.",
+      "atletico_mg": "Skuad: Everson; Natanael (Preciado), Ruan, Lyanco, Renan Lodi; Tomás Pérez, Maycon (Minda), Victor Hugo, Bernard (Igor Gomes); Dudu (Cuello), Cassierra. DOUBTFUL: Maycon (persisten) tapi dimainkan 90 menit leg 1. Tekanan: Copa Sul-Americana juga menunggu (vs Red Bull Bragantino 11 & 18 Agustus). Torcida Arena MRV sudah protes pasca leg 1 yang membosankan."
+    },
+    "analisis_leg_1": {
+      "ringkasan": "0-0 di Arena MRV. Atletico lebih banyak possession dan menyerang, tapi Juventude sangat disiplin defensif. Peluang terbaik: Alisson Safira (Juventude) menghantam tiang atas di menit 90+6, Renan Lodi (Atletico) gagal di depan gawang, Igor Gomes (Atletico) menghantam tiang kiri di sekitar menit 80.",
+      "taktik_leg_1": "Juventude compact 5-4-1 / 4-5-1 dengan counter-attack. Atletico lebih attack-minded tapi kurang kreatif menembus blok rendah Juventude."
+    },
+    "berita_terkini": [
+      "Lance.com.br: Juventude unggul bermain di Alfredo Jaconi yang menjadi benteng mereka di Série B. Rodrigo Sam kembali setelah suspensi. Atletico di bawah tekanan besar – torcida sudah protes setelah leg 1 membosankan.",
+      "Trivela.com.br/Jovem Pan: Atletico menang 1-2 di Palmeiras minggu lalu (percayaan diri tinggi), tapi Juventude lebih kompak di kandang. Mandaca doubtful. Atletico punya Copa Sul-Americana di depan, ada potensi manajemen rotasi skuad."
+    ],
+    "h2h_terakhir_5": [
+      "Atletico MG 0-0 Juventude (1 Agu 2026) – Leg 1 Copa do Brasil",
+      "Atletico MG 0-0 Juventude (Okt 2025) – Pertandingan Serie A, 0-0 juga!",
+      "Juventude 0-1 Atletico MG (Mei 2025) – Atletico menang tipis 1-0 di kandang Juventude",
+      "Atletico MG 2-3 Juventude (Nov 2024) – Juventude menang BESAR di kandang Atletico!",
+      "Juventude 1-1 Atletico MG (Jul 2024) – Seri di Jaconi"
+    ],
+    "catatan_h2h": "Sangat seimbang. 2 pertandingan terakhir (termasuk leg 1) sama-sama 0-0. Di Alfredo Jaconi: 15 pertemuan total dengan Atletico menang 7, seri 4, Juventude menang 4. H2H terkini di Jaconi (Jul 2024): 1-1 seri. Juventude pernah menang besar 3-2 di kandang Atletico (Nov 2024)."
+  },
+  "prediksi_skor": [
+    {
+      "prediksi": "Juventude 1 – 0 Atlético-MG",
+      "akurasi": "35%",
+      "keterangan": "Juventude menang tipis di kandang dengan memanfaatkan kompaknya pertahanan dan transisi balik yang cepat. Rodrigo Sam kembali memperkuat lini pertahanan. Alfredo Jaconi menjadi benteng Juventude di Série B (unbeaten). Atletico datang dengan lebih menyerang tapi sering tumpul vs pertahanan kompak Juventude (0-0 di 2 laga terakhir). Satu gol dari set piece atau serangan balik bisa menentukan."
+    },
+    {
+      "prediksi": "Juventude 0 – 0 Atlético-MG (Imbang → Adu Penalti)",
+      "akurasi": "25%",
+      "keterangan": "Skenario yang cukup realistis mengingat 2 pertemuan terakhir berakhir 0-0. Kedua tim sangat berhati-hati tidak mau kebobolan. Atletico yang biasanya lebih menyerang mungkin tak cukup kreatif untuk tembus pertahanan Juventude di Jaconi. Keputusan lewat adu penalti."
+    },
+    {
+      "prediksi": "Juventude 1 – 1 Atlético-MG (Seri → Adu Penalti)",
+      "akurasi": "18%",
+      "keterangan": "Kedua tim saling cetak 1 gol dan berakhir ke penalti. Atletico lebih menyerang, cetak gol lebih awal atau di akhir. Juventude membalas lewat set piece atau counter. H2H di Jaconi: 1-1 terjadi di Juli 2024. Skenario ini tidak menutup kemungkinan tapi penalti menambah ketidakpastian."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Pertandingan berlangsung sangat ketat dan defensif, total kurang dari 3 gol",
+      "akurasi": "72%",
+      "keterangan": "Dari 5 H2H terakhir: 0-0, 0-0, 0-1, 2-3, 1-1. Total gol per laga: 0, 0, 1, 5, 2. Rata-rata hanya 1.6 gol. Leg 1 juga 0-0. Kedua tim sangat mengenal cara bertahan vs masing-masing. Juventude compact dan sulit ditembus. Atletico tidak selalu eksplosif di away game (meski menang di Palmeiras dan Vasco)."
+    },
+    {
+      "prediksi": "Atletico MG mendominasi possession dan lebih banyak menyerang",
+      "akurasi": "65%",
+      "keterangan": "Sama seperti leg 1, Atletico akan lebih menyerang. Juventude dengan Série B yang sudah biasa bermain melawan tim Série A dalam Copa, akan bermain compact 4-5-1 atau 5-4-1. Atletico punya lebih banyak pemain berpengalaman (Bernard, Igor Gomes, Dudu) yang akan mendominasi penguasaan bola."
+    },
+    {
+      "prediksi": "Skor babak pertama: 0-0",
+      "akurasi": "58%",
+      "keterangan": "Leg 1 juga 0-0 di babak pertama. H2H terbaru keduanya kerap 0-0 di babak pertama. Juventude tidak akan terburu-buru menyerang – mereka tunggu konter. Atletico butuh waktu untuk menembus blok rendah Juventude. Kemungkinan babak pertama tanpa gol sangat tinggi."
+    },
+    {
+      "prediksi": "Juventude lebih banyak melakukan counter-attack dibanding serangan positif",
+      "akurasi": "72%",
+      "keterangan": "Ini adalah gaya bermain utama Juventude melawan Atletico (terbukti di leg 1). Mereka mengandalkan blok rendah + transisi cepat. Di leg 1, Alisson Safira mendapat peluang terbesar dari situasi counter-attack. Rodrigo Sam kembali memperkuat lini tengah-belakang untuk mendukung gaya bermain ini."
+    },
+    {
+      "prediksi": "Setidaknya 1 tembakan mengenai mistar atau tiang gawang dalam pertandingan",
+      "akurasi": "42%",
+      "keterangan": "Di leg 1: Igor Gomes (Atletico) menghantam tiang kiri, Alisson Safira (Juventude) menghantam tiang atas. Kedua tim bermain dengan tembakan dari jarak jauh dan set piece. Pola ini cukup khas ketika pertahanan ketat dan gol susah didapat."
+    },
+    {
+      "prediksi": "Igor Gomes (Atletico MG) menjadi pemain paling berbahaya bagi Juventude",
+      "akurasi": "55%",
+      "keterangan": "Gomes menghantam tiang kiri dari tendangan bebas di leg 1. Pemain yang dimasukkan sebagai pengganti dan langsung berbahaya. Atletico kemungkinan menurunkan Gomes lebih awal di leg 2 mengingat efektivitasnya. Set piece Gomes adalah ancaman nyata."
+    },
+    {
+      "prediksi": "Pertandingan berlangsung penuh intensitas dengan banyak duel dan tekel keras (minimal 4 kartu kuning total)",
+      "akurasi": "55%",
+      "keterangan": "Copa do Brasil knockouts selalu intens. Dari leg 1: kartu kuning Bernard (Atletico), Alisson Safira, Aderlan (Juventude). Di leg 2 dengan pressure lebih tinggi (harus menang atau penalti), duel fisik diprediksi meningkat. Referee Flávio Rodrigues de Souza dikenal tegas."
+    },
+    {
+      "prediksi": "Juventude tidak kebobolan di babak pertama",
+      "akurasi": "62%",
+      "keterangan": "Juventude sangat disiplin defensif, terutama di babak pertama. Di leg 1, tidak kebobolan sama sekali. Di Alfredo Jaconi, Juventude sangat solid (unbeaten di Série B). Rodrigo Sam kembali memperkuat pertahanan. Atletico butuh waktu menemukan formula untuk menembus blok ini."
+    },
+    {
+      "prediksi": "Jika Juventude mencetak gol, kemungkinan besar dari situasi set piece atau serangan balik di babak kedua",
+      "akurasi": "60%",
+      "keterangan": "Gaya bermain Juventude: tunggu dan counter. Data: Lucas Alves (gol menit 90 vs Avai dari set piece), Messias (gol menit 45 vs Vila Nova dari crossing), Alisson Safira (hampir cetak gol dari counter). Juventude sangat berbahaya dari bola mati dan transisi, bukan serangan positif."
+    },
+    {
+      "prediksi": "Atletico tidak mencetak gol lebih dari 1 dalam pertandingan ini",
+      "akurasi": "68%",
+      "keterangan": "Atletico gagal mencetak gol di 2 pertemuan terakhir vs Juventude (0-0 di leg 1 dan 0-0 Oktober 2025 Série A). Di kandang Juventude dengan pertahanan kompak, Atletico historis kesulitan. Dari 15 pertemuan di Jaconi: Atletico hanya menang 7, dengan 4 seri dan 4 kekalahan = bukan laga mudah untuk Atletico."
+    },
+    {
+      "prediksi": "Pertandingan tidak ada gol sama sekali (0-0) sampai memasuki babak kedua",
+      "akurasi": "60%",
+      "keterangan": "Kedua leg terakhir H2H juga 0-0. Pattern ini sangat kuat. Juventude bermain untuk tidak kebobolan dan mencari 1 gol. Atletico menyerang tapi tumpul vs blok rendah. Sangat mungkin pertandingan ini tidak ada gol sampai menit ke-45."
+    },
+    {
+      "prediksi": "Atletico MG melakukan lebih banyak tembakan tapi tidak efisien",
+      "akurasi": "65%",
+      "keterangan": "Di leg 1, Atletico mendominasi possession dan lebih banyak tembakan, tapi tidak ada yang masuk. Gaya bermain ini kemungkinan berulang. Juventude bertahan + Atletico banyak tembak dari jarak jauh = banyak shot dari Atletico, sedikit yang akurat."
+    },
+    {
+      "prediksi": "Pertandingan bisa berlanjut ke adu penalti (kemungkinan cukup nyata)",
+      "akurasi": "45%",
+      "keterangan": "Dengan pola 0-0 di 2 pertemuan terakhir dan leg 1 yang juga 0-0, sangat mungkin leg 2 juga berakhir seri (0-0 atau 1-1). Jika itu terjadi, adu penalti menentukan siapa yang lolos ke perempat final Copa do Brasil. Ini adalah skenario yang harus diperhitungkan bettor."
+    },
+    {
+      "prediksi": "Juventude akan bermain lebih berani menyerang di babak kedua dibanding leg 1",
+      "akurasi": "55%",
+      "keterangan": "Di leg 1 (kandang Atletico), Juventude bermain sangat defensif. Di leg 2 (kandang sendiri), mereka punya dukungan torcida Jaconi. Pelatih Juventude kemungkinan mengizinkan permainan lebih menyerang setelah babak pertama, terutama jika skor masih 0-0. Rodrigo Sam kembali memberi kebebasan lebih untuk pemain lini tengah naik."
+    },
+    {
+      "prediksi": "Atletico MG datang dengan motivasi tinggi setelah kemenangan 1-2 di Palmeiras, tapi tekanan internal Copa Justamente tinggi",
+      "akurasi": "60%",
+      "keterangan": "Kemenangan away di Palmeiras (1-2) minggu lalu memberi kepercayaan diri Atletico. Namun torcida sudah protes pasca leg 1 yang membosankan → pressure sangat tinggi. Di sisi lain, Copa Sul-Americana vs Bragantino menanti 11 dan 18 Agustus → ada kemungkinan rotasi parsial untuk menjaga kebugaran pemain kunci."
+    }
+  ]
+}

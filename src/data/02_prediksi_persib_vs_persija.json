@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "pertandingan": "Persib Bandung vs Persija Jakarta",
+    "kompetisi": "Piala Presiden 2026 – Semifinal (El Clasico Indonesia)",
+    "waktu": "Selasa, 4 Agustus 2026 – 12:00 UTC (19:00 WIB)",
+    "venue": "Stadion Kapten I Wayan Dipta, Gianyar, Bali (venue netral)",
+    "pelatih": {
+      "persib": "Igor Tolic",
+      "persija": "Shin Tae-yong (STY)"
+    },
+    "status_tim": {
+      "persib": "Juara Grup A – 9 poin, 3M 0S 0K, 0 gol kemasukan sepanjang grup. Konsistensi tertinggi di turnamen.",
+      "persija": "Runner-up Grup B – 4 poin (1M 1S 1K), lolos karena unggul produktivitas gol atas Port FC."
+    },
+    "kondisi_penting": {
+      "persib": "Minimal 7 pemain pilar absen karena dipanggil Timnas Indonesia (persiapan semifinal AFF Cup 15 Agustus). Balsa Sekulic cetak gol di 2 laga terakhir (menit 75 dan 82). Gaya bermain: sangat defensif, menang 1-0 di 3 laga grup.",
+      "persija": "Juga tanpa beberapa pemain Timnas. Gustavo menjadi andalan (4 gol di 3 laga terakhir). Victor Dethan tampil bagus di laga pamungkas grup (gol menit 82). STY akan rotasi skuad."
+    },
+    "berita_terkini": [
+      "Bangkapos/Tribunnews: Kedua tim tampil tanpa pemain inti yang dipanggil Timnas Indonesia untuk persiapan semifinal AFF Cup 2026. Persib kehilangan setidaknya 7 nama mentereng. Ini membuat kedalaman skuad jadi penentu.",
+      "Detik.com: Duel Persib vs Persija disebut 'final kepagian'. Pemain senior Persib Dedi Kusnandar menyebut tim siap tempur tapi pelatih Igor Tolic mengingatkan ini pra-musim dan fokus utama adalah persiapan kompetisi resmi akhir Agustus."
+    ],
+    "h2h_terakhir_5": [
+      "Persija 1-2 Persib (Mei 2026) – Gol menit 20, 28, 37",
+      "Persib 1-0 Persija (Jan 2026) – Gol menit 5",
+      "Persija 2-2 Persib (Feb 2025) – Gol menit 34, 39, 51, 70",
+      "Persib 2-0 Persija (Sep 2024) – Gol menit 38, 83",
+      "Persib 2-1 Persija (Mar 2024) – Gol menit 24, 28, 69"
+    ],
+    "catatan_h2h": "Persib mendominasi H2H: 4 menang, 1 seri dari 5 pertemuan terakhir. Persib tidak pernah kalah dari Persija dalam 5 laga terakhir. Gol di H2H cenderung terjadi di menit 20-40 dan 60-90."
+  },
+  "prediksi_skor": [
+    {
+      "prediksi": "Persib Bandung 1 – 0 Persija Jakarta",
+      "akurasi": "40%",
+      "keterangan": "Pola Persib sangat konsisten: 3 kemenangan grup semuanya 1-0 (vs Arema, DPMM, Tampines). H2H menunjukkan Persib sering menang dengan skor minimal. Lini belakang Persib sangat solid meski tanpa pemain Timnas. Prediksi: gol Persib datang dari situasi set piece atau serangan balik di babak kedua (seperti pola Sekulic di menit 75 dan 82)."
+    },
+    {
+      "prediksi": "Persib Bandung 2 – 1 Persija Jakarta",
+      "akurasi": "28%",
+      "keterangan": "Persija dengan Gustavo yang lagi-lagi produktif bisa mencetak gol, tapi Persib lebih efisien dan H2H-nya lebih baik. Persib menang tipis 2-1 seperti di Maret 2024 dan Mei 2026 (ketika Persib menang 2-1 di kandang Persija). Gol Persija bisa datang dari transisi Gustavo."
+    },
+    {
+      "prediksi": "Persib Bandung 1 – 1 Persija Jakarta",
+      "akurasi": "22%",
+      "keterangan": "Dengan banyaknya absensi di kedua tim, terbuka peluang seri. Kedua tim mungkin tampil tidak maksimal mengingat ini pramusim dan pelatih bisa rotasi. Persija punya kualitas untuk menyamakan (Gustavo, Arlyansyah). Persib tetap defisit pemain kunci."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Persib lebih dominan dalam penguasaan bola sepanjang pertandingan",
+      "akurasi": "58%",
+      "keterangan": "Persib dengan sistem Igor Tolic selalu bermain terorganisir dan penguasaan lebih baik. Di 3 laga grup, Persib konsisten atur tempo. Meski tanpa beberapa pemain, sistem kolektif Persib lebih matang dibanding Persija yang masih beradaptasi di era STY."
+    },
+    {
+      "prediksi": "Skor babak pertama: 0-0 (pertandingan ketat tanpa gol di 45 menit pertama)",
+      "akurasi": "52%",
+      "keterangan": "H2H antara dua tim ini sering dimulai dengan babak pertama yang saling intip. Dari 5 H2H terakhir: babak pertama sering berakhir 0-0 atau 1-0 Persib. Mengingat kedua tim tampil tanpa pemain terbaik, tempo awal cenderung lambat dan hati-hati."
+    },
+    {
+      "prediksi": "Gol pertama di pertandingan ini terjadi setelah menit ke-20",
+      "akurasi": "62%",
+      "keterangan": "Dari data H2H 5 laga terakhir: gol-gol sering terjadi mulai menit 20 ke atas (min20, 24, 28, 37, 38). Persib tidak terburu-buru menyerang. Mereka tunggu momen yang tepat. Persija juga tidak agresif di menit awal."
+    },
+    {
+      "prediksi": "Balsa Sekulic menjadi ancaman utama dan paling berpeluang mencetak gol untuk Persib",
+      "akurasi": "55%",
+      "keterangan": "Sekulic mencetak gol di masing-masing 2 laga terakhir Persib (menit 82 vs Tampines dan menit 75 vs DPMM). Keduanya di babak kedua. Pola ini kuat: Sekulic berbahaya di babak kedua, terutama dari situasi set piece dan umpan-umpan akhir."
+    },
+    {
+      "prediksi": "Persib menjaga clean sheet (Persija tidak mencetak gol)",
+      "akurasi": "45%",
+      "keterangan": "Persib tidak kebobolan sama sekali di 3 laga grup (vs Arema, DPMM, Tampines). Namun Persija punya Gustavo yang sedang dalam tren 4 gol di 3 laga terakhir. Tanpa pemain Timnas, pertahanan Persib mungkin lebih rentan dari biasanya."
+    },
+    {
+      "prediksi": "Gustavo (Persija) mencetak gol atau memberi assist dalam pertandingan ini",
+      "akurasi": "48%",
+      "keterangan": "Gustavo mencetak 4 gol di 3 laga terakhir Persija (vs PSMS: 2 gol di menit 58 dan babak 2; vs Persik: 2 gol di menit 64 dan 66; vs Semen Padang: 2 gol di menit 29 dan 58). Striker berbahaya yang bisa meledak kapan saja. Pertahanan Persib harus waspada terhadap Gustavo khususnya."
+    },
+    {
+      "prediksi": "Pertandingan berlangsung ketat dan tidak terbuka (total kurang dari 3 gol)",
+      "akurasi": "60%",
+      "keterangan": "El Clasico Indonesia cenderung berlangsung ketat dan taktis. H2H: 4 dari 5 laga terakhir menghasilkan total 2-3 gol. Kedua tim tanpa pemain terbaik → tidak akan cetak banyak gol. Persib fokus defensive-compact, Persija tidak punya banyak solusi ketika pertahanan Persib tersusun."
+    },
+    {
+      "prediksi": "Persija lebih agresif dan banyak melakukan foul di babak pertama",
+      "akurasi": "55%",
+      "keterangan": "Persija sebagai runner-up grup dan underdog di H2H ini akan tampil lebih agresif untuk break ritme Persib. STY dikenal melatih pressing tinggi. Persib dengan penguasaan bola lebih banyak akan lebih sering dilanggar di babak pertama."
+    },
+    {
+      "prediksi": "Jika ada gol Persib, besar kemungkinan terjadi di rentang menit 60-90",
+      "akurasi": "58%",
+      "keterangan": "Data 5 laga terakhir Persib: gol datang di menit 82 (vs Tampines), menit 75 (vs DPMM), menit 24 (vs Arema – satu-satunya di babak 1), menit 54 (vs PSM), menit 90 (vs PSM – gol kemenangan). Persib sangat sering mencetak gol di babak kedua dan momen-momen akhir. Inilah pola utama Persib era Igor Tolic."
+    },
+    {
+      "prediksi": "Pertandingan berlangsung dengan emosional tinggi dan minimal 4 kartu kuning",
+      "akurasi": "52%",
+      "keterangan": "El Clasico Indonesia selalu panas secara emosional. Meski pramusim, rivalitas Maung Bandung vs Macan Kemayoran tidak pernah luntur. Di H2H Feb 2025 ada banyak duel agresif. Venue netral (Bali) mengurangi tekanan suporter tapi bukan rasa ingin menang."
+    },
+    {
+      "prediksi": "Persib unggul di statistik total shot sepanjang pertandingan",
+      "akurasi": "60%",
+      "keterangan": "Persib lebih dominan dalam permainan dan possession → menghasilkan lebih banyak peluang shooting. Persija di posisi defensif akan lebih sedikit tembakan. Pola grup: Persib selalu menekan dan mendominasi total shot meski skornya tetap 1-0."
+    },
+    {
+      "prediksi": "Persija mencoba bermain counter-attack untuk memanfaatkan ruang di belakang Persib",
+      "akurasi": "65%",
+      "keterangan": "Ini strategi natural Persija ketika menghadapi tim yang lebih dominan. STY dikenal membangun serangan balik cepat. Gustavo, Arlyansyah Abdulmanan, dan Victor Dethan adalah pemain kecepatan yang berbahaya di ruang terbuka. Risiko ini yang perlu diwaspadai Persib."
+    },
+    {
+      "prediksi": "Persib memenangkan pertandingan ini dan melaju ke final",
+      "akurasi": "55%",
+      "keterangan": "H2H 4 kemenangan dari 5 laga terakhir, performa grup tanpa kekalahan, dan kekuatan sistem Igor Tolic yang sudah teruji memberikan Persib keunggulan. Meski tanpa pemain Timnas, Persib lebih dalam secara skuad cadangan dibanding Persija di turnamen ini."
+    },
+    {
+      "prediksi": "Tidak ada gol di babak pertama (kedua tim bermain conservatively di awal)",
+      "akurasi": "53%",
+      "keterangan": "Ini adalah pramusim dan pertaruhan emosional sangat tinggi. Kedua pelatih kemungkinan instruksikan tidak terburu-buru dan menjaga struktur di babak pertama. Data H2H: dari 5 laga terakhir, 3 di antaranya tidak ada gol di babak pertama."
+    },
+    {
+      "prediksi": "Babak kedua jauh lebih terbuka dan intens dibanding babak pertama",
+      "akurasi": "68%",
+      "keterangan": "Pola El Clasico Indonesia: babak pertama tentative, babak kedua meledak. Dari H2H terakhir (Feb 2025: 2-2 semua gol di babak kedua menit 34,39,51,70), atau H2H Mei 2026 (Persib menang 2-1 di Persija, semua 3 gol di menit 20-37). Momen-momen menentukan di derby ini selalu di paruh kedua."
+    }
+  ]
+}
