@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Cruzeiro 2-0 Chapecoense AF",
+      "akurasi": "33%",
+      "keterangan": "Cruzeiro hanya butuh kemenangan untuk lolos langsung tanpa drama adu penalti, ditopang dukungan penuh Mineirão dan rekor Chapecoense yang gagal cetak gol di 4 dari 5 laga terakhir (termasuk kalah 0-4 dari Flamengo dan 0-2 dari Bahia). xG rata-rata Cruzeiro musim ini (1,6/laga) jauh di atas realisasi gol mereka (0,8/laga), mengindikasikan mereka berpeluang pecah kebuntuan dengan skor bersih."
+    },
+    {
+      "prediksi": "Cruzeiro 1-0 Chapecoense AF",
+      "akurasi": "27%",
+      "keterangan": "Skenario realistis mengingat Cruzeiro sendiri rata-rata hanya cetak 0,8 gol/laga dalam 5 laga terakhir, dan leg pertama (0-0) menunjukkan Chapecoense mampu bertahan rapat. Satu gol saja sudah cukup memastikan tiket ke perempat final tanpa risiko adu penalti."
+    },
+    {
+      "prediksi": "Cruzeiro 1-1 Chapecoense AF (agregat imbang, laga lanjut ke adu penalti)",
+      "akurasi": "15%",
+      "keterangan": "Regulasi oitavas de final Copa do Brasil 2026 meniadakan perpanjangan waktu -- jika agregat imbang di menit 90, laga langsung ke adu penalti. Dengan leg pertama 0-0 dan kedua tim sama-sama solid bertahan satu sama lain di pertemuan H2H terakhir, skenario ini nyata dan layak diperhitungkan."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Skor babak pertama 0-0",
+      "akurasi": "46%",
+      "keterangan": "Leg pertama berakhir 0-0 di kedua babak, dan karakter laga knockout dua leg biasanya membuat kedua tim main hati-hati di 45 menit awal; media Brasil turut memproyeksikan jalannya laga sebagai 'jogo truncado' pada menit-menit pembuka."
+    },
+    {
+      "prediksi": "Cruzeiro lebih dominan dan unggul di babak kedua",
+      "akurasi": "41%",
+      "keterangan": "Dalam 5 laga terakhir, Cruzeiro mencetak 3 dari 4 gol mereka di babak kedua, sementara Chapecoense justru kebobolan 4 dari 5 gol mereka di babak pertama -- pola ini mendukung tekanan Cruzeiro yang makin menjadi usai turun minum."
+    },
+    {
+      "prediksi": "Total tembakan Cruzeiro lebih banyak, kisaran 15-19 percobaan berbanding 8-12 milik Chapecoense",
+      "akurasi": "58%",
+      "keterangan": "Rata-rata 5 laga terakhir Cruzeiro melepaskan 16,2 tembakan/laga berbanding rata-rata Chapecoense sebagai tim tandang hanya 11,2 tembakan/laga; dominasi penguasaan bola Cruzeiro di kandang memperbesar peluang ini terulang."
+    },
+    {
+      "prediksi": "Cruzeiro unggul jumlah tembakan tepat sasaran",
+      "akurasi": "52%",
+      "keterangan": "Rata-rata shots on target Cruzeiro 4,0/laga berbanding Chapecoense (sebagai tim tandang) 2,6/laga dalam 5 laga terakhir masing-masing; Chapecoense juga gagal mencetak gol di 4 dari 5 laga terakhirnya."
+    },
+    {
+      "prediksi": "Jumlah corner Cruzeiro lebih banyak, kisaran 5-8 berbanding 2-4 milik Chapecoense",
+      "akurasi": "47%",
+      "keterangan": "Rata-rata corner Cruzeiro mencapai 6,0/laga vs rata-rata Chapecoense hanya 4,0/laga (dan cenderung lebih rendah lagi sebagai tim tandang), konsisten dengan proyeksi dominasi penguasaan bola tuan rumah."
+    },
+    {
+      "prediksi": "Kartu kuning relatif sedikit, maksimal 2-3 kartu total",
+      "akurasi": "44%",
+      "keterangan": "Dalam 10 laga gabungan terakhir kedua tim, mayoritas mencatat 0 kartu kuning per tim; meski tensi laga knockout bisa menaikkan agresivitas, data dasar menunjukkan wasit kedua laga cenderung longgar mengeluarkan kartu."
+    },
+    {
+      "prediksi": "Kaio Jorge berpeluang besar jadi pencetak gol pertama laga",
+      "akurasi": "24%",
+      "keterangan": "Kaio Jorge adalah ujung tombak utama Cruzeiro dan pencetak gol penentu saat menyingkirkan Goiás di ronde sebelumnya (total 45 gol dalam sekitar 95 laga bersama klub), menjadikannya opsi realistis meski peluang tetap tersebar ke Matheus Pereira dan Wanderson."
+    },
+    {
+      "prediksi": "Cruzeiro berpeluang mencatat clean sheet",
+      "akurasi": "48%",
+      "keterangan": "Chapecoense gagal mencetak gol di 4 dari 5 laga terakhir mereka, sementara lini belakang Cruzeiro sendiri mencatat 2 clean sheet dalam 5 laga terakhir -- kombinasi yang membuka peluang nirbobol bagi tuan rumah."
+    },
+    {
+      "prediksi": "Chapecoense AF gagal mencetak gol (BTTS: Tidak)",
+      "akurasi": "43%",
+      "keterangan": "Tren gol Chapecoense sangat buruk belakangan -- hanya 2 gol dari 5 laga terakhir (rata-rata 0,4/laga), dan mereka baru saja melalui leg pertama tanpa mencetak gol sama sekali melawan lawan yang sama."
+    },
+    {
+      "prediksi": "Tempo laga meningkat drastis di 30 menit terakhir",
+      "akurasi": "39%",
+      "keterangan": "Dengan status agregat masih terbuka dan tanpa jaring pengaman perpanjangan waktu, kedua tim diproyeksikan mulai melepas pendekatan hati-hati begitu memasuki fase akhir babak kedua demi menghindari drama adu penalti."
+    },
+    {
+      "prediksi": "Periode paling berpeluang terjadi gol adalah menit 60-90",
+      "akurasi": "40%",
+      "keterangan": "Cruzeiro mencetak 3 dari 4 gol terakhir mereka di babak kedua, termasuk gol-gol penentu melawan Botafogo dan Fluminense yang tercipta setelah menit 65 -- pola serangan yang makin tajam di paruh akhir laga."
+    },
+    {
+      "prediksi": "Fágner jadi salah satu pemain paling berpengaruh lewat sisi kanan",
+      "akurasi": "30%",
+      "keterangan": "Bek kanan veteran ini tampil sebagai pemain berperingkat tertinggi Cruzeiro di 2 dari 5 laga sampel (rating 8,84 vs Internacional dengan 2 assist, 7,93 di leg pertama Copa do Brasil), dan diproyeksikan starter usai sempat absen lawan Coritiba."
+    },
+    {
+      "prediksi": "Cruzeiro mendominasi penguasaan bola di atas 55%",
+      "akurasi": "55%",
+      "keterangan": "Rata-rata possession Cruzeiro dalam 5 laga terakhir mencapai 58% berbanding 42% milik lawan, pola konsisten yang kemungkinan besar berlanjut mengingat Chapecoense umumnya bermain lebih reaktif saat tandang melawan tim papan atas Serie A."
+    },
+    {
+      "prediksi": "Peluang laga berlanjut ke adu penalti sekitar 20%",
+      "akurasi": "20%",
+      "keterangan": "Regulasi resmi Copa do Brasil 2026 di fase oitavas de final meniadakan perpanjangan waktu -- setiap skenario agregat imbang di menit 90 langsung menuju penalti. Dengan leg pertama 0-0 dan rekam jejak bertahan solid kedua tim, ini bukan skenario yang bisa diabaikan."
+    },
+    {
+      "prediksi": "Chapecoense AF punya peluang kejutan terbatas berkat 4 pemain baru yang sudah bisa diturunkan",
+      "akurasi": "18%",
+      "keterangan": "Kehadiran Fernando, Bruno Tubarão, Max Alves, dan Túlio Eduardo yang baru diregistrasi memberi opsi segar bagi Chapecoense, namun performa tim yang kalah 0-4 dari Flamengo dan berada di dasar klasemen Serie A membuat peluang mengejutkan Cruzeiro di kandang tetap tipis."
+    }
+  ]
+}

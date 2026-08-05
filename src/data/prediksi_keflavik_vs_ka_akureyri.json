@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Keflavik 2-2 KA Akureyri",
+      "akurasi": "24%",
+      "keterangan": "Kedua tim mencatat BTTS di hampir seluruh laga terakhir mereka (Keflavik 5 dari 5, KA Akureyri 4 dari 5), dan rata-rata gol yang mereka cetak (2,2 dan 1,6 gol/laga) mengarah ke laga terbuka dengan skor produktif, sejalan dengan kemenangan tipis 2-1 Keflavik di pertemuan terakhir April lalu."
+    },
+    {
+      "prediksi": "Keflavik 3-2 KA Akureyri",
+      "akurasi": "20%",
+      "keterangan": "Dua laga kandang terakhir Keflavik berakhir 5-2 dan 3-2, menunjukkan potensi pesta gol saat bermain di HS Orku völlurinn; KA Akureyri yang rawan kebobolan di menit-menit akhir (kebobolan gol 90+4 lawan Víkingur) rentan menyerah di laga terbuka seperti ini."
+    },
+    {
+      "prediksi": "KA Akureyri 2-1 Keflavik",
+      "akurasi": "15%",
+      "keterangan": "Performa individu Hallgrímur Steingrímsson yang konsisten tampil sebagai pemain terbaik timnya di seluruh 5 laga terakhir (rating 7,55-9,15) membuka peluang KA Akureyri mencuri kemenangan tandang, terlebih mereka baru menunjukkan mental comeback membalikkan ketertinggalan 0-2 menjadi menang 3-2 atas Akranes."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Kedua tim sama-sama mencetak gol (BTTS: Ya)",
+      "akurasi": "62%",
+      "keterangan": "Keflavik mencatat BTTS di 5 dari 5 laga terakhir dan KA Akureyri di 4 dari 5 laga terakhir mereka -- kombinasi ini menjadikan BTTS sebagai skenario paling mungkin terjadi di laga ini."
+    },
+    {
+      "prediksi": "Total gol pertandingan over 2.5",
+      "akurasi": "57%",
+      "keterangan": "Rata-rata gol gabungan (dicetak+kebobolan) Keflavik mencapai 4,6/laga dan KA Akureyri 3,6/laga dalam 5 laga terakhir masing-masing, jauh di atas ambang 2,5 gol."
+    },
+    {
+      "prediksi": "Sudah ada gol tercipta sebelum turun minum",
+      "akurasi": "50%",
+      "keterangan": "Dari 10 laga gabungan terakhir kedua tim, mayoritas sudah kebobolan atau mencetak gol sebelum turun minum, termasuk gol-gol cepat di menit 5, 10, 11, dan 18 pada beberapa laga terakhir Keflavik dan KA Akureyri."
+    },
+    {
+      "prediksi": "Hallgrímur Steingrímsson jadi pemain paling berpengaruh di laga ini",
+      "akurasi": "33%",
+      "keterangan": "Pemain KA Akureyri ini tercatat sebagai pemain berperingkat tertinggi timnya di seluruh 5 laga terakhir tanpa terkecuali, sekaligus terlibat langsung dalam gol di setidaknya 3 dari 5 laga tersebut."
+    },
+    {
+      "prediksi": "Kedua tim rawan kebobolan gol di menit-menit akhir (85 ke atas)",
+      "akurasi": "38%",
+      "keterangan": "KA Akureyri kebobolan gol penentu di menit 90+4 lawan Víkingur Reykjavík, sementara Keflavik kebobolan 2 gol telat (57' dan 89') saat kalah dari Breidablik -- pola kerapuhan mental di fase akhir laga pada kedua tim."
+    },
+    {
+      "prediksi": "Clean sheet kecil kemungkinan terjadi untuk kedua tim",
+      "akurasi": "55%",
+      "keterangan": "Keflavik tidak pernah clean sheet dalam 5 laga terakhir dan KA Akureyri hanya sekali (lawan Thor Akureyri yang juga gagal cetak gol), mengindikasikan pertahanan kedua tim sama-sama rapuh musim ini."
+    },
+    {
+      "prediksi": "Tempo laga tinggi dan terbuka sejak menit awal",
+      "akurasi": "45%",
+      "keterangan": "Karakter head-to-head serta bentuk permainan kedua tim belakangan (gol-gol cepat di menit 5-18 pada beberapa laga terakhir) mengindikasikan laga langsung hidup tanpa fase perkenalan yang lambat."
+    },
+    {
+      "prediksi": "Keflavik lebih unggul di babak kedua berkat dukungan kandang",
+      "akurasi": "34%",
+      "keterangan": "Dari 3 laga kandang terakhir Keflavik, mereka konsisten mencetak gol tambahan di babak kedua, mencerminkan momentum yang terbangun seiring laga berjalan di hadapan pendukung sendiri."
+    },
+    {
+      "prediksi": "Peluang comeback dari ketertinggalan cukup tinggi untuk kedua tim",
+      "akurasi": "30%",
+      "keterangan": "KA Akureyri terbukti mampu berbalik dari tertinggal 0-2 menjadi menang 3-2 atas Akranes bulan lalu, sementara Keflavik juga sempat unggul lebih dulu sebelum takluk dari Breidablik -- kedua tim punya rekor mencetak gol di berbagai fase laga."
+    },
+    {
+      "prediksi": "Keflavik diuntungkan secara motivasi karena unggul 5 poin di klasemen grup degradasi",
+      "akurasi": "37%",
+      "keterangan": "Dengan 19 poin berbanding 14 poin milik KA Akureyri di grup babak degradasi Besta deild, Keflavik punya sedikit lebih banyak ruang bernapas dan berpotensi bermain lebih lepas dibanding lawannya yang lebih tertekan posisi klasemen."
+    },
+    {
+      "prediksi": "Jumlah kartu kuning berkisar 2-4 dalam laga ini",
+      "akurasi": "40%",
+      "keterangan": "Rata-rata gabungan pelanggaran kedua tim (8,4 dan 15,8 per laga) tergolong wajar untuk ukuran liga ini, namun tensi pertarungan sesama penghuni papan bawah berpotensi memicu sedikit lebih banyak pelanggaran dari biasanya."
+    },
+    {
+      "prediksi": "KA Akureyri tampil lebih agresif dalam volume tembakan dari biasanya",
+      "akurasi": "28%",
+      "keterangan": "Rata-rata tembakan KA Akureyri (14,6/laga) sedikit di bawah Keflavik (17,4/laga), namun sebagai tim yang lebih butuh hasil demi menjauh dari dasar klasemen, KA Akureyri berpotensi tampil lebih agresif dan menyamai volume tembakan tuan rumah."
+    },
+    {
+      "prediksi": "Gol penentu berpeluang tercipta lewat skema serangan sayap dan umpan silang",
+      "akurasi": "26%",
+      "keterangan": "Mayoritas gol dalam sampel data performa terakhir kedua tim tercipta lewat assist dari sisi sayap dan crossing, membuka peluang gol dari situasi serupa atau sepak pojok di laga ini."
+    },
+    {
+      "prediksi": "Momentum head-to-head terkini berpihak ke Keflavik meski rekor sepanjang masa milik KA Akureyri",
+      "akurasi": "42%",
+      "keterangan": "KA Akureyri unggul 7-3 dalam rekor pertemuan sepanjang masa, namun Keflavik memenangi laga terakhir mereka 2-1 pada April 2026, menunjukkan pergeseran tren yang menguntungkan tuan rumah musim ini."
+    },
+    {
+      "prediksi": "Peluang salah satu tim menang dengan selisih 2 gol atau lebih",
+      "akurasi": "27%",
+      "keterangan": "Melihat rekor kemenangan 5-2 dan 5-1 milik Keflavik serta kekalahan-kekalahan telak KA Akureyri (1-5, 1-3) musim ini, kemungkinan hasil laga berakhir dengan margin lebar tetap terbuka meski bukan skenario utama."
+    }
+  ]
+}

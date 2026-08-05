@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "RoPS 2-1 FC Jazz",
+      "akurasi": "22%",
+      "keterangan": "RoPS diuntungkan faktor kandang dan mencetak gol di setiap laga dari 5 pertandingan terakhir mereka (rata-rata 2,8 gol/laga), namun pertahanan mereka yang baru saja kebobolan 6 gol dari TPV membuka celah bagi FC Jazz untuk ikut mencetak gol."
+    },
+    {
+      "prediksi": "RoPS 3-2 FC Jazz",
+      "akurasi": "19%",
+      "keterangan": "Fixture ini secara historis sangat produktif gol (rata-rata 3,0 gol per laga dalam 5 pertemuan H2H terakhir dengan skor-skor seperti 3-1), dan kedua tim sama-sama selalu mencetak gol di laga terakhir masing-masing."
+    },
+    {
+      "prediksi": "FC Jazz 2-1 RoPS",
+      "akurasi": "17%",
+      "keterangan": "FC Jazz punya rekor pertahanan lebih baik belakangan (1,2 gol kebobolan/laga vs 2,0 milik RoPS) dan sukses menang di pertemuan away terakhir mereka Mei 2026 lalu (2-1), membuka peluang mengulang hasil serupa."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Kedua tim sama-sama mencetak gol (BTTS: Ya)",
+      "akurasi": "63%",
+      "keterangan": "RoPS mencetak gol di semua 5 laga terakhir mereka dan FC Jazz gagal cetak gol hanya sekali; ditambah 5 dari 5 pertemuan H2H terakhir kedua tim menghasilkan gol dari kedua kubu."
+    },
+    {
+      "prediksi": "Total gol pertandingan over 2.5",
+      "akurasi": "66%",
+      "keterangan": "Rata-rata H2H 5 laga terakhir mencapai 3,0 gol/laga, dan kedua tim sama sekali tidak pernah terlibat laga di bawah 2 gol dalam 5 pertandingan terakhir masing-masing."
+    },
+    {
+      "prediksi": "Joshua Pulla berpeluang besar mencetak gol untuk FC Jazz",
+      "akurasi": "30%",
+      "keterangan": "Pemain ini mencetak gol di 3 dari 5 laga terakhir FC Jazz, termasuk dua gol dalam kemenangan 3-1 atas JJK Jyväskylä, menjadikannya ancaman gol paling konsisten dari kubu tamu."
+    },
+    {
+      "prediksi": "Onni Suutari jadi kandidat kuat pencetak gol RoPS",
+      "akurasi": "26%",
+      "keterangan": "Sebagai top scorer RoPS musim ini dengan 6 gol dari 12 laga, Suutari juga tercatat mencetak gol di laga terakhir RoPS melawan TPV, menegaskan posisinya sebagai ancaman utama lini depan tuan rumah."
+    },
+    {
+      "prediksi": "Pertahanan RoPS rawan kebobolan lebih dari 1 gol",
+      "akurasi": "47%",
+      "keterangan": "RoPS baru saja kebobolan 6 gol dalam kekalahan 3-6 dari TPV dan sempat kebobolan 3 gol saat menang 4-3 atas PK Keski-Uusimaa, menandakan kerapuhan struktural di lini belakang meski serangan mereka tetap tajam."
+    },
+    {
+      "prediksi": "Distribusi gol merata, laga tetap terbuka di kedua babak",
+      "akurasi": "34%",
+      "keterangan": "Gol RoPS di 5 laga terakhir terbagi rata antara babak 1 dan 2 (7 gol masing-masing babak), mengindikasikan tidak ada fase laga yang benar-benar didominasi satu sisi."
+    },
+    {
+      "prediksi": "Clean sheet kecil kemungkinan terjadi untuk kedua tim",
+      "akurasi": "60%",
+      "keterangan": "RoPS tidak pernah clean sheet dalam 5 laga terakhir dan FC Jazz hanya sekali; kombinasi lini serang tajam dan lini belakang longgar di kedua tim membuat skenario tanpa kebobolan sangat tidak mungkin."
+    },
+    {
+      "prediksi": "Peluang gol tercipta di masa injury time atau menit-menit akhir",
+      "akurasi": "38%",
+      "keterangan": "RoPS mencetak gol penentu di menit 90+4 lawan TPV dan menit 88 lawan PK Keski-Uusimaa dalam dua laga kandang terakhir mereka, menandakan pola gol-gol krusial di detik-detik akhir laga."
+    },
+    {
+      "prediksi": "FC Jazz punya kapasitas comeback dari ketertinggalan",
+      "akurasi": "29%",
+      "keterangan": "Di laga terakhir mereka, FC Jazz berhasil menyamakan kedudukan 2-2 setelah tertinggal 0-2 di babak pertama melawan KuPS Akatemia, menunjukkan mental pantang menyerah yang bisa terulang jika tertinggal lebih dulu."
+    },
+    {
+      "prediksi": "Tempo laga tinggi sejak menit-menit awal",
+      "akurasi": "42%",
+      "keterangan": "Kedua tim mencatat gol pembuka di bawah menit 20 pada beberapa laga terakhir mereka (menit 13, 16, 14), memperkuat ekspektasi laga yang langsung terbuka tanpa fase perkenalan yang lambat."
+    },
+    {
+      "prediksi": "Jumlah kartu kuning tergolong sedang, 2-4 kartu total",
+      "akurasi": "33%",
+      "keterangan": "Data historis kedua tim di kompetisi ini tidak menunjukkan tren kartu berlebihan, meski intensitas laga pembuka jatkosarja bisa sedikit menaikkan agresivitas pemain."
+    },
+    {
+      "prediksi": "RoPS lebih unggul dalam jumlah peluang tercipta berkat catatan gol musim ini",
+      "akurasi": "31%",
+      "keterangan": "Dengan 14 gol dalam 5 laga terakhir dan berada di papan atas klasemen (peringkat 3), RoPS diproyeksikan lebih banyak menciptakan peluang berbahaya dibanding FC Jazz sebagai tim tamu."
+    },
+    {
+      "prediksi": "Laga ini krusial untuk momentum awal jatkosarja kedua tim",
+      "akurasi": "40%",
+      "keterangan": "Sebagai laga pembuka ronde lanjutan (jatkosarja) musim ini setelah fase liga reguler usai, hasil laga ini berpotensi menentukan arah kepercayaan diri RoPS dan FC Jazz untuk sisa musim di grup baru mereka."
+    },
+    {
+      "prediksi": "Peluang salah satu tim menang dengan selisih 2 gol atau lebih",
+      "akurasi": "30%",
+      "keterangan": "Riwayat skor besar dalam fixture ini (6-3, 4-0, 3-1) serta ketidakkonsistenan pertahanan RoPS membuka ruang bagi hasil dengan margin lebar, meski bukan skenario paling mungkin terjadi."
+    },
+    {
+      "prediksi": "FC Jazz berpotensi unggul dalam duel dan intensitas pressing",
+      "akurasi": "24%",
+      "keterangan": "FC Jazz baru saja mencatat kemenangan meyakinkan 4-0 dan 3-1 dalam 2 dari 5 laga terakhir, menunjukkan kapasitas menekan lawan secara intens saat performa mereka sedang dalam kondisi baik."
+    }
+  ]
+}

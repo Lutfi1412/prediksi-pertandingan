@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "Quilmes 1-1 Gimnasia Jujuy",
+      "akurasi": "26%",
+      "keterangan": "Tiga dari lima pertemuan terakhir kedua tim berselisih maksimal 1 gol, dan performa kedua tim belakangan sama-sama tidak meyakinkan (Quilmes hanya 1 kemenangan dari 5 laga terakhir, Gimnasia baru saja kalah di laga paling anyar mereka) -- kombinasi ini mengarah ke laga seimbang yang berakhir imbang."
+    },
+    {
+      "prediksi": "Gimnasia Jujuy 2-1 Quilmes",
+      "akurasi": "22%",
+      "keterangan": "Dengan keunggulan 16 poin di klasemen musim ini (41 vs 25), Gimnasia Jujuy tampil sebagai tim yang secara kualitas jauh lebih superior, dan mereka mencatatkan kemenangan tandang 3-1 di laga away terakhir mereka -- modal untuk membongkar pertahanan Quilmes yang kebobolan 9 gol dalam 5 laga terakhir."
+    },
+    {
+      "prediksi": "Quilmes 2-1 Gimnasia Jujuy",
+      "akurasi": "18%",
+      "keterangan": "Rekor keunggulan 8-3 milik Quilmes di head-to-head sepanjang masa serta produktivitas mereka di babak kedua (5 gol dalam 5 laga terakhir) membuka peluang kemenangan tipis di kandang sendiri."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "Kedua tim sama-sama mencetak gol (BTTS: Ya)",
+      "akurasi": "56%",
+      "keterangan": "Gimnasia Jujuy mencatat BTTS di 5 dari 5 laga terakhir, dan 3 dari 5 pertemuan head-to-head terakhir kedua tim juga menghasilkan gol dari kedua kubu."
+    },
+    {
+      "prediksi": "Quilmes cenderung tertekan atau tertinggal di babak pertama",
+      "akurasi": "41%",
+      "keterangan": "Quilmes hanya mencetak 1 gol babak pertama namun kebobolan 4 di periode yang sama dalam 5 laga terakhir mereka, pola yang mengindikasikan start lambat khas tim ini belakangan."
+    },
+    {
+      "prediksi": "Babak kedua jauh lebih produktif untuk Quilmes",
+      "akurasi": "44%",
+      "keterangan": "Quilmes mencetak 5 dari 6 gol mereka di babak kedua dalam 5 laga terakhir, konsisten dengan kecenderungan tampil lebih baik usai turun minum ketimbang di awal laga."
+    },
+    {
+      "prediksi": "Quilmes berisiko tidak mampu mempertahankan keunggulan",
+      "akurasi": "33%",
+      "keterangan": "Di laga paling anyar, Quilmes sempat unggul 3-1 atas Patronato sebelum berakhir imbang 3-3, menunjukkan kerapuhan mental menjaga hasil positif yang patut diwaspadai kembali di laga ini."
+    },
+    {
+      "prediksi": "Gimnasia Jujuy tak terkalahkan dalam 4 dari 5 laga sebelum kekalahan terakhir",
+      "akurasi": "39%",
+      "keterangan": "Rekor 2 menang 2 seri sebelum kalah 1-2 dari Colegiales menunjukkan fondasi performa yang solid, menjadikan kekalahan terakhir kemungkinan besar sebagai anomali, bukan tren menurun berkelanjutan."
+    },
+    {
+      "prediksi": "Octavio Bianchi berpeluang terlibat gol untuk Gimnasia Jujuy",
+      "akurasi": "24%",
+      "keterangan": "Pemain ini tercatat mencetak gol di 2 dari 5 laga terakhir Gimnasia Jujuy, menjadikannya salah satu opsi ofensif paling konsisten dari kubu tim tamu."
+    },
+    {
+      "prediksi": "Total gol pertandingan over 2.5",
+      "akurasi": "48%",
+      "keterangan": "Rata-rata gol gabungan (dicetak+kebobolan) mencapai 3,0 untuk Quilmes dan 2,8 untuk Gimnasia Jujuy per laga dalam 5 laga terakhir masing-masing, mendukung skenario laga dengan produksi gol di atas rata-rata."
+    },
+    {
+      "prediksi": "Clean sheet kecil kemungkinan terjadi untuk kedua tim",
+      "akurasi": "46%",
+      "keterangan": "Baik Quilmes maupun Gimnasia Jujuy sama-sama gagal mencatat clean sheet di setidaknya 4 dari 5 laga terakhir mereka."
+    },
+    {
+      "prediksi": "Peluang terjadi gol bunuh diri atau kemelut di kotak penalti",
+      "akurasi": "22%",
+      "keterangan": "Setidaknya 2 dari 10 laga gabungan terakhir kedua tim diwarnai gol bunuh diri, menandakan situasi bola mati dan kemelut di kotak penalti cukup sering terjadi di level kompetisi ini."
+    },
+    {
+      "prediksi": "Gimnasia Jujuy diuntungkan performa musim ini meski kalah jumlah di H2H sepanjang masa",
+      "akurasi": "45%",
+      "keterangan": "Selisih 16 poin di klasemen musim ini (41 vs 25) jadi indikator kuat superioritas performa Gimnasia Jujuy, membalikkan narasi dominasi historis Quilmes di head-to-head."
+    },
+    {
+      "prediksi": "Tempo laga terbuka dengan peluang tercipta di kedua sisi lapangan",
+      "akurasi": "36%",
+      "keterangan": "Rekor gol kedua tim yang cenderung tinggi belakangan (rata-rata gabungan hampir 3 gol per laga untuk masing-masing tim) mengindikasikan laga yang tidak akan berjalan bertahan penuh dari kedua kubu."
+    },
+    {
+      "prediksi": "Jumlah kartu kuning berkisar 3-5 dalam laga ini",
+      "akurasi": "35%",
+      "keterangan": "Level intensitas laga papan tengah-bawah Primera Nacional secara umum menghasilkan pelanggaran dalam jumlah sedang hingga cukup tinggi, meski data pelanggaran spesifik kedua tim tidak tersedia penuh di sumber data ini."
+    },
+    {
+      "prediksi": "Aarón Spetale berpotensi mencetak gol untuk Quilmes",
+      "akurasi": "21%",
+      "keterangan": "Pemain ini tercatat sebagai pencetak gol Quilmes di 2 dari 5 laga terakhir mereka, termasuk gol penyeimbang saat menahan imbang Patronato 3-3."
+    },
+    {
+      "prediksi": "Peluang hasil imbang cukup tinggi mengingat pola H2H yang ketat",
+      "akurasi": "32%",
+      "keterangan": "Selisih gol tipis di sebagian besar pertemuan terakhir kedua tim (3 dari 5 laga H2H berselisih 1 gol) menandakan laga ini berpotensi kembali berjalan ketat dan sulit diprediksi margin kemenangannya."
+    },
+    {
+      "prediksi": "Quilmes bermain dengan tekanan tambahan akibat performa yang kurang stabil",
+      "akurasi": "30%",
+      "keterangan": "Dengan hanya 1 kemenangan dari 5 laga terakhir dan tertinggal jauh dari Gimnasia Jujuy secara poin, Quilmes membawa beban psikologis lebih berat untuk segera memutus tren negatif di hadapan publik sendiri."
+    }
+  ]
+}

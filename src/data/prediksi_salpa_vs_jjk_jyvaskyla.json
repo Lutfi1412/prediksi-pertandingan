@@ -1,0 +1,96 @@
+{
+  "prediksi_skor": [
+    {
+      "prediksi": "SalPa 1-1 JJK Jyväskylä",
+      "akurasi": "23%",
+      "keterangan": "SalPa sedang mengalami paceklik gol (nihil gol dalam 2 laga terakhir) namun bermain di kandang sendiri, sementara pertahanan JJK yang kebobolan 12 gol dalam 4 laga terakhir (di luar laga anomali 11-1) tetap rentan kebobolan minimal satu gol, mengarah ke hasil imbang."
+    },
+    {
+      "prediksi": "SalPa 2-1 JJK Jyväskylä",
+      "akurasi": "19%",
+      "keterangan": "SalPa belum pernah kalah dari JJK dalam data pertemuan terakhir mereka (2 menang, 2 imbang), dan dukungan kandang berpotensi mengakhiri paceklik gol mereka menghadapi lini belakang JJK yang sedang keropos."
+    },
+    {
+      "prediksi": "JJK Jyväskylä 2-1 SalPa",
+      "akurasi": "16%",
+      "keterangan": "Arjan Goljahanpoor sebagai pencetak gol terbanyak JJK musim ini (10 gol) berpotensi membongkar pertahanan SalPa yang sudah kebobolan di 4 dari 5 laga terakhir, memanfaatkan kondisi SalPa yang minim kepercayaan diri usai 2 kekalahan tanpa gol beruntun."
+    }
+  ],
+  "prediksi_pertandingan": [
+    {
+      "prediksi": "SalPa berpeluang kembali mencetak gol setelah 2 laga puasa gol",
+      "akurasi": "48%",
+      "keterangan": "SalPa gagal mencetak satu gol pun dalam kekalahan 0-3 dari KPV dan 0-1 dari PK Keski-Uusimaa, dua laga terakhir mereka -- tekanan untuk memutus tren ini di kandang sendiri cukup besar, apalagi lawan yang dihadapi juga rapuh secara defensif."
+    },
+    {
+      "prediksi": "Kedua tim rawan kebobolan gol",
+      "akurasi": "50%",
+      "keterangan": "JJK kebobolan di 4 dari 5 laga terakhir (termasuk kekalahan 0-4 dan 1-3), sementara SalPa juga kebobolan di 4 dari 5 laga terakhir mereka -- pola yang mengindikasikan gol dari kedua sisi bukan hal mengejutkan."
+    },
+    {
+      "prediksi": "Arjan Goljahanpoor jadi ancaman gol utama JJK",
+      "akurasi": "29%",
+      "keterangan": "Sebagai pencetak gol terbanyak JJK musim ini dengan 10 gol, termasuk mencetak 3 gol dalam sampel 5 laga terakhir tim, Goljahanpoor tetap jadi individu paling krusial di lini serang JJK."
+    },
+    {
+      "prediksi": "Pertahanan JJK sangat rapuh di luar laga anomali kemenangan besar",
+      "akurasi": "44%",
+      "keterangan": "Tanpa menghitung kemenangan 11-1 yang menjadi outlier statistik, JJK sebenarnya kebobolan 12 gol dalam 4 laga terakhir mereka (rata-rata 3 gol per laga), jauh lebih buruk dari kesan rata-rata musiman mereka."
+    },
+    {
+      "prediksi": "Clean sheet kecil kemungkinan terjadi untuk kedua tim",
+      "akurasi": "47%",
+      "keterangan": "Baik SalPa maupun JJK sama-sama gagal mencatat clean sheet di 4 dari 5 laga terakhir mereka masing-masing."
+    },
+    {
+      "prediksi": "Total gol pertandingan cenderung moderat, di bawah 3.5 gol",
+      "akurasi": "36%",
+      "keterangan": "Meski JJK punya riwayat laga tinggi gol, performa terkini SalPa yang justru minim gol (nihil gol di 2 laga terakhir) menahan ekspektasi jumlah gol total agar tidak setinggi rata-rata musiman JJK."
+    },
+    {
+      "prediksi": "SalPa diuntungkan modal psikologis head-to-head yang positif",
+      "akurasi": "39%",
+      "keterangan": "Dari 4 pertemuan terakhir yang tercatat, SalPa tidak pernah kalah dari JJK (2 menang, 2 imbang), modal historis yang relevan meski performa terkini kedua tim sama-sama menurun."
+    },
+    {
+      "prediksi": "Babak pertama cenderung waspada, gol lebih mungkin tercipta di babak kedua",
+      "akurasi": "33%",
+      "keterangan": "SalPa hanya mencetak 3 gol namun kebobolan 4 di babak pertama sepanjang 5 laga terakhir mereka, sementara produksi gol babak kedua mereka justru lebih terkontrol -- mengindikasikan awal laga yang lebih rawan bagi tuan rumah."
+    },
+    {
+      "prediksi": "JJK berpotensi tampil dengan mentalitas comeback",
+      "akurasi": "27%",
+      "keterangan": "Di laga terakhir yang tidak kalah (4-4 vs KuPS Akatemia), JJK terbukti mampu bangkit dari tertinggal beberapa kali sepanjang laga, menunjukkan karakter pantang menyerah meski hasil akhir tetap imbang."
+    },
+    {
+      "prediksi": "Peluang gol di menit-menit awal laga (sebelum menit 20) cukup tinggi",
+      "akurasi": "31%",
+      "keterangan": "Beberapa laga terakhir kedua tim diwarnai gol cepat (JJK terlibat gol di menit 4, 6, 9, dan 12 pada berbagai laga terakhir), menandakan start laga yang berpotensi langsung hidup."
+    },
+    {
+      "prediksi": "Jumlah kartu kuning berkisar 2-4 dalam laga ini",
+      "akurasi": "32%",
+      "keterangan": "Level intensitas laga jatkosarja pembuka antara dua tim papan bawah biasanya menghasilkan pelanggaran dalam jumlah sedang, meski data pelanggaran spesifik kedua tim tidak tersedia penuh dari sumber data ini."
+    },
+    {
+      "prediksi": "Laga ini penting untuk momentum awal jatkosarja kedua tim yang sama-sama tertekan",
+      "akurasi": "43%",
+      "keterangan": "SalPa (2 kekalahan beruntun tanpa gol) dan JJK (3 kekalahan dalam 4 laga terakhir di luar anomali) sama-sama butuh hasil positif untuk membuka babak lanjutan musim dengan optimisme, menjadikan laga ini krusial secara psikologis bagi kedua kubu."
+    },
+    {
+      "prediksi": "Peluang salah satu tim gagal mencetak gol",
+      "akurasi": "34%",
+      "keterangan": "Mengingat SalPa nihil gol di 2 laga terakhir dan JJK juga sempat gagal cetak gol lawan TPV, skenario salah satu tim blank di laga ini realistis untuk dipertimbangkan."
+    },
+    {
+      "prediksi": "Set piece dan bola mati berpotensi jadi sumber gol",
+      "akurasi": "24%",
+      "keterangan": "Beberapa gol dalam sampel data terkini kedua tim tercipta dari situasi crossing dan assist sayap, membuka peluang gol dari sepak pojok atau tendangan bebas di laga ini."
+    },
+    {
+      "prediksi": "SalPa diuntungkan faktor kandang untuk membalikkan tren negatif",
+      "akurasi": "30%",
+      "keterangan": "Dari 5 laga terakhir, 2 hasil terbaik SalPa (kemenangan 1-0 dan hasil imbang 2-2) melibatkan momen-momen positif yang lebih sering terjadi saat mereka tidak dalam tekanan penuh sebagai tim tandang, memberi sedikit optimisme tambahan bermain di kandang sendiri."
+    }
+  ]
+}
